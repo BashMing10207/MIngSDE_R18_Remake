@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mita Alternative
+  m_Controller: {fileID: 9100000, guid: 7aaff9b62a44f194d9e6a81bac44e9ed, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1c62e76b1f035fa468363e633b398703, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e43b35d40652b4145998323e5c2359f6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dd7f12f3a09d2cf44a3d627440547ceb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e9e2033b33fa53b4c825e8b2dd90ecc6, type: 2}

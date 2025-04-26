@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: cdb44c5b4910d364298b2d388fe1dc8d
+timeCreated: 1745704319
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 72
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - XENOA
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 3
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1058441963, guid: 77c1fb63a97b2a54060a8c66a7cdfec6, type: 3}
+  m_Name: 'BoneClothData_Tail 1 '
+  m_EditorClassIdentifier:
+  dataHash: -853441727
+  dataVersion: 5
+  triangleBendAlgorithm: 1
+  restoreRotationAlgorithm: 1
+  clampRotationAlgorithm: 1
+  useVertexList: 0000000001000000020000000300000004000000
+  selectionData: 0200000001000000010000000100000001000000
+  maxLevel: 5
+  vertexFlagLevelList: 0100000002000000030000000400000005000100
+  vertexDepthList:
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  rootList: ffffffff00000000000000000000000000000000
+  parentList: ffffffff00000000010000000200000003000000
+  structDistanceDataList:
+  - vertexIndex: 0
+    targetVertexIndex: 1
+    length: 0.09060012
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.09060012
+  - vertexIndex: 1
+    targetVertexIndex: 2
+    length: 0.111835144
+  - vertexIndex: 2
+    targetVertexIndex: 1
+    length: 0.111835144
+  - vertexIndex: 2
+    targetVertexIndex: 3
+    length: 0.116034746
+  - vertexIndex: 3
+    targetVertexIndex: 2
+    length: 0.116034746
+  - vertexIndex: 3
+    targetVertexIndex: 4
+    length: 0.13443482
+  - vertexIndex: 4
+    targetVertexIndex: 3
+    length: 0.13443482
+  structDistanceReferenceList:
+  - startIndex: 0
+    count: 1
+  - startIndex: 1
+    count: 2
+  - startIndex: 3
+    count: 2
+  - startIndex: 5
+    count: 2
+  - startIndex: 7
+    count: 1
+  bendDistanceDataList: []
+  bendDistanceReferenceList: []
+  nearDistanceDataList: []
+  nearDistanceReferenceList: []
+  rootDistanceDataList:
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.09060012
+  - vertexIndex: 2
+    targetVertexIndex: 0
+    length: 0.19524954
+  - vertexIndex: 3
+    targetVertexIndex: 0
+    length: 0.30889243
+  - vertexIndex: 4
+    targetVertexIndex: 0
+    length: 0.44296134
+  rootDistanceReferenceList:
+  - startIndex: 0
+    count: 0
+  - startIndex: 0
+    count: 1
+  - startIndex: 1
+    count: 1
+  - startIndex: 2
+    count: 1
+  - startIndex: 3
+    count: 1
+  clampDistance2DataList: []
+  clampDistance2RootInfoList: []
+  restoreRotationDataList: []
+  restoreRotationReferenceList: []
+  clampRotationDataList: []
+  clampRotationRootInfoList: []
+  compositeRotationDataList:
+  - vertexIndex: 1
+    parentVertexIndex: 0
+    localPos:
+      x: 3.9940596E-07
+      y: 1
+      z: 6.300131E-07
+    localRot:
+      value:
+        x: 0.18918426
+        y: -0.005367874
+        z: -0.18632734
+        w: 0.9640865
+  - vertexIndex: 2
+    parentVertexIndex: 1
+    localPos:
+      x: 4.5614743E-07
+      y: 1.0000001
+      z: 4.68373E-07
+    localRot:
+      value:
+        x: 0.00592037
+        y: 0.0001163312
+        z: -0.0058949213
+        w: 0.9999652
+  - vertexIndex: 3
+    parentVertexIndex: 2
+    localPos:
+      x: -5.033127E-07
+      y: 1.0000001
+      z: -4.784315E-07
+    localRot:
+      value:
+        x: -0.025767086
+        y: 0.0003386305
+        z: 0.025632845
+        w: 0.9993393
+  - vertexIndex: 4
+    parentVertexIndex: 3
+    localPos:
+      x: -2.7013294E-07
+      y: 1
+      z: -5.221E-08
+    localRot:
+      value:
+        x: -0.005671723
+        y: -0.9243407
+        z: -0.013750028
+        w: 0.3812781
+  compositeRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 4
+  twistDataList: []
+  twistReferenceList: []
+  adjustRotationDataList: []
+  triangleBendDataList: []
+  triangleBendReferenceList: []
+  triangleBendWriteBufferCount: 0
+  volumeDataList: []
+  volumeReferenceList: []
+  volumeWriteBufferCount: 0
+  lineRotationDataList:
+  - vertexIndex: 0
+    childCount: 1
+    childStartDataIndex: 1
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 1
+    childCount: 1
+    childStartDataIndex: 2
+    localPos:
+      x: 3.7445858E-08
+      y: 0.09060012
+      z: 5.837253E-08
+    localRot:
+      value:
+        x: 0.18918426
+        y: -0.005367874
+        z: -0.18632734
+        w: 0.9640865
+  - vertexIndex: 2
+    childCount: 1
+    childStartDataIndex: 3
+    localPos:
+      x: 5.09251E-08
+      y: 0.11183516
+      z: 5.229199E-08
+    localRot:
+      value:
+        x: 0.00592037
+        y: 0.0001163312
+        z: -0.0058949213
+        w: 0.9999652
+  - vertexIndex: 3
+    childCount: 1
+    childStartDataIndex: 4
+    localPos:
+      x: -5.82734E-08
+      y: 0.11603476
+      z: -5.5385733E-08
+    localRot:
+      value:
+        x: -0.025767086
+        y: 0.0003386305
+        z: 0.025632845
+        w: 0.9993393
+  - vertexIndex: 4
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: -3.6278006E-08
+      y: 0.13443482
+      z: -6.9813564E-09
+    localRot:
+      value:
+        x: -0.005671723
+        y: -0.9243407
+        z: -0.013750028
+        w: 0.3812781
+  lineRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 5
+  triangleRotationDataList: []
+  triangleRotationIndexList:
+  edgeCollisionDataList: []
+  edgeCollisionReferenceList: []
+  edgeCollisionWriteBufferCount: 0
+  penetrationDataList: []
+  penetrationReferenceList: []
+  penetrationDirectionDataList: []
+  penetrationMode: 0
+  baseSkinningDataList: []
+  baseSkinningBindPoseList: []
+  initScale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}

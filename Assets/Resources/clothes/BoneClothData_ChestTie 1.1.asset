@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1058441963, guid: 77c1fb63a97b2a54060a8c66a7cdfec6, type: 3}
+  m_Name: BoneClothData_ChestTie 1.1
+  m_EditorClassIdentifier:
+  dataHash: -853441769
+  dataVersion: 5
+  triangleBendAlgorithm: 1
+  restoreRotationAlgorithm: 1
+  clampRotationAlgorithm: 1
+  useVertexList: 000000000100000002000000
+  selectionData: 020000000100000001000000
+  maxLevel: 3
+  vertexFlagLevelList: 010000000200000003000100
+  vertexDepthList:
+  - 0
+  - 0.5
+  - 1
+  rootList: ffffffff0000000000000000
+  parentList: ffffffff0000000001000000
+  structDistanceDataList:
+  - vertexIndex: 0
+    targetVertexIndex: 1
+    length: 0.021811908
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.021811908
+  - vertexIndex: 1
+    targetVertexIndex: 2
+    length: 0.021812
+  - vertexIndex: 2
+    targetVertexIndex: 1
+    length: 0.021812
+  structDistanceReferenceList:
+  - startIndex: 0
+    count: 1
+  - startIndex: 1
+    count: 2
+  - startIndex: 3
+    count: 1
+  bendDistanceDataList: []
+  bendDistanceReferenceList: []
+  nearDistanceDataList: []
+  nearDistanceReferenceList: []
+  rootDistanceDataList:
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.021811908
+  - vertexIndex: 2
+    targetVertexIndex: 0
+    length: 0.04362391
+  rootDistanceReferenceList:
+  - startIndex: 0
+    count: 0
+  - startIndex: 0
+    count: 1
+  - startIndex: 1
+    count: 1
+  clampDistance2DataList: []
+  clampDistance2RootInfoList: []
+  restoreRotationDataList: []
+  restoreRotationReferenceList: []
+  clampRotationDataList: []
+  clampRotationRootInfoList: []
+  compositeRotationDataList:
+  - vertexIndex: 1
+    parentVertexIndex: 0
+    localPos:
+      x: -3.72405E-09
+      y: 1.0000002
+      z: -2.773976E-06
+    localRot:
+      value:
+        x: -1.7721388E-06
+        y: -2.142041E-08
+        z: 4.655965E-09
+        w: 1.0000001
+  - vertexIndex: 2
+    parentVertexIndex: 1
+    localPos:
+      x: 5.588639E-09
+      y: 1.0000002
+      z: -2.7187498E-06
+    localRot:
+      value:
+        x: -2.8002804E-08
+        y: -1.0215536E-14
+        z: -3.4590915E-14
+        w: 1.0000001
+  compositeRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 2
+  twistDataList: []
+  twistReferenceList: []
+  adjustRotationDataList: []
+  triangleBendDataList: []
+  triangleBendReferenceList: []
+  triangleBendWriteBufferCount: 0
+  volumeDataList: []
+  volumeReferenceList: []
+  volumeWriteBufferCount: 0
+  lineRotationDataList:
+  - vertexIndex: 0
+    childCount: 1
+    childStartDataIndex: 1
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 1
+    childCount: 1
+    childStartDataIndex: 2
+    localPos:
+      x: -8.122863E-11
+      y: 0.021811912
+      z: -6.0178465E-08
+    localRot:
+      value:
+        x: -1.7721388E-06
+        y: -2.142041E-08
+        z: 4.655965E-09
+        w: 1.0000001
+  - vertexIndex: 2
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: 1.2189932E-10
+      y: 0.021812003
+      z: -5.906713E-08
+    localRot:
+      value:
+        x: -2.8002804E-08
+        y: -1.0215536E-14
+        z: -3.4590915E-14
+        w: 1.0000001
+  lineRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 3
+  triangleRotationDataList: []
+  triangleRotationIndexList:
+  edgeCollisionDataList: []
+  edgeCollisionReferenceList: []
+  edgeCollisionWriteBufferCount: 0
+  penetrationDataList:
+  - vertexIndex: 1
+    colliderIndex: 0
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localDir:
+      x: 0
+      y: 0
+      z: -1
+    distance: 0
+  - vertexIndex: 2
+    colliderIndex: 0
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localDir:
+      x: 0
+      y: 0
+      z: -1
+    distance: 0
+  penetrationReferenceList:
+  - startIndex: 0
+    count: 0
+  - startIndex: 0
+    count: 1
+  - startIndex: 1
+    count: 1
+  penetrationDirectionDataList: []
+  penetrationMode: 0
+  baseSkinningDataList: []
+  baseSkinningBindPoseList: []
+  initScale: {x: 1.0000006, y: 1.0000002, z: 0.99999964}

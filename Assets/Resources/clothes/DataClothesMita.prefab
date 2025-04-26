@@ -1,0 +1,398 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1652097279412761
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4925398806004596}
+  - component: {fileID: 114100639522730577}
+  m_Layer: 0
+  m_Name: DataClothesMita
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4925398806004596
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652097279412761}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114100639522730577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652097279412761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31452e55c6c76ba5ff73a44d4713cc7e, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  clothes:
+  - stringName: 10
+    fileSave: original
+    iconCloth: {fileID: 21300000, guid: 21d1a52a509e9794285cce1997ea8b36, type: 2}
+    colorCase1: {r: 1, g: 0.20392157, b: 0.6313726, a: 1}
+    colorCase2: {r: 0.78431374, g: 0.2784314, b: 1, a: 1}
+    attributeMesh: {fileID: 4300000, guid: b6852490d44ef4f4bacc8bb8b373d6f9, type: 2}
+    bodyMesh: {fileID: 4300000, guid: 99135742a53693c4799ff9532b5243a3, type: 2}
+    pantyhoseMesh: {fileID: 4300000, guid: 8a042720d75a88a4eb699afa4de83640, type: 2}
+    shoesMesh: {fileID: 4300000, guid: 0c04c8643166f2847a1d805267588d6c, type: 2}
+    skirtMesh: {fileID: 4300000, guid: 1d368c2bbcede014ebcaaa7598062d30, type: 2}
+    sweaterMesh: {fileID: 4300000, guid: 24b221e35f40f254f8b8ac89466e2fd7, type: 2}
+    variants:
+    - color1: {r: 0.29803923, g: 0.38823533, b: 0.6901961, a: 1}
+      color2: {r: 0.6862745, g: 0.3254902, b: 0.37647063, a: 1}
+      colorSprite: {fileID: 0}
+      bodyTextures:
+      - {fileID: 2800000, guid: 6ea0e324d9ddd3841859076e12a2e1fc, type: 3}
+      bodyMaterials:
+      - {fileID: 2100000, guid: 94cab9c8904b7964a9284dd204d46a41, type: 2}
+      attributeTextures:
+      - {fileID: 2800000, guid: 57a3cc510503bb140a620d3511d964d4, type: 3}
+      attributeMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      pantyhoseTextures:
+      - {fileID: 2800000, guid: 57a3cc510503bb140a620d3511d964d4, type: 3}
+      pantyhoseMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      shoesTextures:
+      - {fileID: 2800000, guid: 57a3cc510503bb140a620d3511d964d4, type: 3}
+      shoesMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      skirtTextures:
+      - {fileID: 2800000, guid: 57a3cc510503bb140a620d3511d964d4, type: 3}
+      skirtMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      sweaterTextures:
+      - {fileID: 2800000, guid: 57a3cc510503bb140a620d3511d964d4, type: 3}
+      sweaterMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      textureSadMitaBody: {fileID: 0}
+      textureSadMitaCloth: {fileID: 0}
+      textureSadMitaFace: {fileID: 0}
+      textureSadMitaHair: {fileID: 0}
+      addon: []
+    textureFace: {fileID: 2800000, guid: 5297aafd42aafeb4fae4be000746668c, type: 3}
+    textureHairs: {fileID: 2800000, guid: 5cbf3b9dcc744a84690f2d418f981def, type: 3}
+    sweaterMeshCap: {fileID: 0}
+    bodyMeshCap: {fileID: 4300000, guid: 034bf8920d66c7d4b89e218dea5fbba2, type: 2}
+    removeGloves: 0
+    prefabFull: {fileID: 0}
+    modNameCloth:
+  - stringName: 11
+    fileSave: FIIdClSchool
+    iconCloth: {fileID: 21300000, guid: 9a4d2c7687d95d74ea84d4abe82814f5, type: 2}
+    colorCase1: {r: 0.6084906, g: 0.86564225, b: 1, a: 1}
+    colorCase2: {r: 0.4009434, g: 0.51975983, b: 1, a: 1}
+    attributeMesh: {fileID: 4300000, guid: def3ad47d6ed37d40a6e3b01115653f4, type: 2}
+    bodyMesh: {fileID: 4300000, guid: 8e15876732f5c7140a2779bc4a8d2271, type: 2}
+    pantyhoseMesh: {fileID: 4300000, guid: 55c47cb195e6b0943bf7bb0a909f2341, type: 2}
+    shoesMesh: {fileID: 4300000, guid: d9a868474bf2e7640a316eb2f04f651b, type: 2}
+    skirtMesh: {fileID: 4300000, guid: fb1beecec90866a43b8de39ac1340884, type: 2}
+    sweaterMesh: {fileID: 4300000, guid: 61be132b053ba0f4bacde08dfb3b1598, type: 2}
+    variants:
+    - color1: {r: 0.35635456, g: 0.72979903, b: 0.9811321, a: 1}
+      color2: {r: 0.254539, g: 0.49150202, b: 0.8301887, a: 1}
+      colorSprite: {fileID: 0}
+      bodyTextures:
+      - {fileID: 2800000, guid: 7d2165546d7dd9c4f8ba1d8254c02fec, type: 3}
+      bodyMaterials:
+      - {fileID: 2100000, guid: 94cab9c8904b7964a9284dd204d46a41, type: 2}
+      attributeTextures:
+      - {fileID: 2800000, guid: 13355e5c4026bca4ab4f5eb63fca7b13, type: 3}
+      attributeMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      pantyhoseTextures:
+      - {fileID: 2800000, guid: 13355e5c4026bca4ab4f5eb63fca7b13, type: 3}
+      pantyhoseMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      shoesTextures:
+      - {fileID: 2800000, guid: 13355e5c4026bca4ab4f5eb63fca7b13, type: 3}
+      shoesMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      skirtTextures:
+      - {fileID: 2800000, guid: 13355e5c4026bca4ab4f5eb63fca7b13, type: 3}
+      skirtMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      sweaterTextures:
+      - {fileID: 2800000, guid: 13355e5c4026bca4ab4f5eb63fca7b13, type: 3}
+      sweaterMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      textureSadMitaBody: {fileID: 0}
+      textureSadMitaCloth: {fileID: 0}
+      textureSadMitaFace: {fileID: 0}
+      textureSadMitaHair: {fileID: 0}
+      addon:
+      - mesh: {fileID: 4300000, guid: f8ebd9a4dc9b34549a3483221d6d5eb5, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 13355e5c4026bca4ab4f5eb63fca7b13, type: 3}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: d776d52a2c80b0e498634d4d1bf5186e, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 7d2165546d7dd9c4f8ba1d8254c02fec, type: 3}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: 0fdbb3c4c5e353d49ba3f24f3901a28d, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 13355e5c4026bca4ab4f5eb63fca7b13, type: 3}
+        materials:
+        - {fileID: 0}
+    - color1: {r: 0.19286224, g: 0.19810687, b: 0.20754719, a: 1}
+      color2: {r: 0.8113208, g: 0.3099858, b: 0.35717025, a: 1}
+      colorSprite: {fileID: 0}
+      bodyTextures:
+      - {fileID: 2800000, guid: 8b13f6322c1bf8c4b82a9e8b838787aa, type: 3}
+      bodyMaterials:
+      - {fileID: 2100000, guid: 94cab9c8904b7964a9284dd204d46a41, type: 2}
+      attributeTextures:
+      - {fileID: 2800000, guid: 555620982e0d7a1408a449015d40625d, type: 3}
+      attributeMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      pantyhoseTextures:
+      - {fileID: 2800000, guid: 555620982e0d7a1408a449015d40625d, type: 3}
+      pantyhoseMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      shoesTextures:
+      - {fileID: 2800000, guid: 555620982e0d7a1408a449015d40625d, type: 3}
+      shoesMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      skirtTextures:
+      - {fileID: 2800000, guid: 555620982e0d7a1408a449015d40625d, type: 3}
+      skirtMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      sweaterTextures:
+      - {fileID: 2800000, guid: 555620982e0d7a1408a449015d40625d, type: 3}
+      sweaterMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      textureSadMitaBody: {fileID: 0}
+      textureSadMitaCloth: {fileID: 0}
+      textureSadMitaFace: {fileID: 0}
+      textureSadMitaHair: {fileID: 0}
+      addon:
+      - mesh: {fileID: 4300000, guid: f8ebd9a4dc9b34549a3483221d6d5eb5, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 555620982e0d7a1408a449015d40625d, type: 3}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: d776d52a2c80b0e498634d4d1bf5186e, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 8b13f6322c1bf8c4b82a9e8b838787aa, type: 3}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: 0fdbb3c4c5e353d49ba3f24f3901a28d, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 555620982e0d7a1408a449015d40625d, type: 3}
+        materials:
+        - {fileID: 0}
+    - color1: {r: 0.8387771, g: 0.887748, b: 0.9716981, a: 1}
+      color2: {r: 0.26072443, g: 0.3709871, b: 0.5943396, a: 1}
+      colorSprite: {fileID: 0}
+      bodyTextures:
+      - {fileID: 2800000, guid: 8b13f6322c1bf8c4b82a9e8b838787aa, type: 3}
+      bodyMaterials:
+      - {fileID: 2100000, guid: 94cab9c8904b7964a9284dd204d46a41, type: 2}
+      attributeTextures:
+      - {fileID: 2800000, guid: 4cbd56d262d0e8b44962e46ddc86ddcd, type: 3}
+      attributeMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      pantyhoseTextures:
+      - {fileID: 2800000, guid: 4cbd56d262d0e8b44962e46ddc86ddcd, type: 3}
+      pantyhoseMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      shoesTextures:
+      - {fileID: 2800000, guid: 4cbd56d262d0e8b44962e46ddc86ddcd, type: 3}
+      shoesMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      skirtTextures:
+      - {fileID: 2800000, guid: 4cbd56d262d0e8b44962e46ddc86ddcd, type: 3}
+      skirtMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      sweaterTextures:
+      - {fileID: 2800000, guid: 4cbd56d262d0e8b44962e46ddc86ddcd, type: 3}
+      sweaterMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      textureSadMitaBody: {fileID: 0}
+      textureSadMitaCloth: {fileID: 0}
+      textureSadMitaFace: {fileID: 0}
+      textureSadMitaHair: {fileID: 0}
+      addon:
+      - mesh: {fileID: 4300000, guid: f8ebd9a4dc9b34549a3483221d6d5eb5, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 4cbd56d262d0e8b44962e46ddc86ddcd, type: 3}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: d776d52a2c80b0e498634d4d1bf5186e, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 8b13f6322c1bf8c4b82a9e8b838787aa, type: 3}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: 0fdbb3c4c5e353d49ba3f24f3901a28d, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 4cbd56d262d0e8b44962e46ddc86ddcd, type: 3}
+        materials:
+        - {fileID: 0}
+    textureFace: {fileID: 0}
+    textureHairs: {fileID: 0}
+    sweaterMeshCap: {fileID: 0}
+    bodyMeshCap: {fileID: 4300000, guid: b626f0c4992e25d4c9bcea713d7754d4, type: 2}
+    removeGloves: 0
+    prefabFull: {fileID: 0}
+    modNameCloth:
+  - stringName: 12
+    fileSave: HellVamp
+    iconCloth: {fileID: 21300000, guid: 4fd99f04b0eeb6f478cc0cefcffbcde8, type: 2}
+    colorCase1: {r: 0.8207547, g: 0.17421682, b: 0.22328448, a: 1}
+    colorCase2: {r: 0.23918656, g: 0.25404197, b: 0.4056604, a: 1}
+    attributeMesh: {fileID: 4300000, guid: c90e1258447ce4c4aa8127e743f13676, type: 2}
+    bodyMesh: {fileID: 4300000, guid: 91b7bb7873f8a414388839d0d0975bd7, type: 2}
+    pantyhoseMesh: {fileID: 4300000, guid: 77ce610b76d5b0040a09cd50ac0d988b, type: 2}
+    shoesMesh: {fileID: 4300000, guid: c24d7b4b6c1e11f40816ad4b09ad6ec5, type: 2}
+    skirtMesh: {fileID: 4300000, guid: bb689a90ed848ec4ebe0c053077741ca, type: 2}
+    sweaterMesh: {fileID: 4300000, guid: 776b64826b0322541aa119c86bd04578, type: 2}
+    variants:
+    - color1: {r: 0.5943396, g: 0.20465466, b: 0.21157223, a: 1}
+      color2: {r: 0.23767357, g: 0.31097198, b: 0.46226418, a: 1}
+      colorSprite: {fileID: 0}
+      bodyTextures:
+      - {fileID: 2800000, guid: c27d1e138129ad64da504c6a982fc073, type: 3}
+      bodyMaterials:
+      - {fileID: 2100000, guid: 94cab9c8904b7964a9284dd204d46a41, type: 2}
+      attributeTextures:
+      - {fileID: 2800000, guid: b82a3719c23435a49a939da449be089e, type: 3}
+      attributeMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      pantyhoseTextures:
+      - {fileID: 2800000, guid: b82a3719c23435a49a939da449be089e, type: 3}
+      pantyhoseMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      shoesTextures:
+      - {fileID: 2800000, guid: b82a3719c23435a49a939da449be089e, type: 3}
+      shoesMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      skirtTextures:
+      - {fileID: 2800000, guid: b82a3719c23435a49a939da449be089e, type: 3}
+      skirtMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      sweaterTextures:
+      - {fileID: 2800000, guid: b82a3719c23435a49a939da449be089e, type: 3}
+      sweaterMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      textureSadMitaBody: {fileID: 0}
+      textureSadMitaCloth: {fileID: 0}
+      textureSadMitaFace: {fileID: 0}
+      textureSadMitaHair: {fileID: 0}
+      addon:
+      - mesh: {fileID: 4300000, guid: 3d2712755c6240640b9f5de4436484ae, type: 2}
+        textures:
+        - {fileID: 2800000, guid: b82a3719c23435a49a939da449be089e, type: 3}
+        materials:
+        - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      - mesh: {fileID: 4300000, guid: 31d9b4bf43718034f9896cd851780a05, type: 2}
+        textures:
+        - {fileID: 2800000, guid: c27d1e138129ad64da504c6a982fc073, type: 3}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: 6257b9bcc132a4443bae342becec146a, type: 2}
+        textures:
+        - {fileID: 2800000, guid: b82a3719c23435a49a939da449be089e, type: 3}
+        materials:
+        - {fileID: 0}
+    textureFace: {fileID: 2800000, guid: 2a8779ac297fc104390fd20c7322020e, type: 3}
+    textureHairs: {fileID: 0}
+    sweaterMeshCap: {fileID: 0}
+    bodyMeshCap: {fileID: 0}
+    removeGloves: 1
+    prefabFull: {fileID: 1170625234469336, guid: 5b16db4da6b7e6e4da285df63f6dd724, type: 2}
+    modNameCloth:
+  - stringName: 13
+    fileSave: Chirfns
+    iconCloth: {fileID: 21300000, guid: d0a6ab23c3b1bc34389aec879687124b, type: 2}
+    colorCase1: {r: 1, g: 0.47526345, b: 0.4009434, a: 1}
+    colorCase2: {r: 1, g: 1, b: 1, a: 1}
+    attributeMesh: {fileID: 4300000, guid: 5620f57d4ae0a8648ae4e7000b066f75, type: 2}
+    bodyMesh: {fileID: 4300000, guid: bd4f282160528494caaf4551b79adfb7, type: 2}
+    pantyhoseMesh: {fileID: 4300000, guid: 88672d092e70bac4c985f2ace5b74384, type: 2}
+    shoesMesh: {fileID: 4300000, guid: 4318cffdb297e024f99360e5caad7890, type: 2}
+    skirtMesh: {fileID: 0}
+    sweaterMesh: {fileID: 4300000, guid: 0305a3e281e5209448e9166cd9707c00, type: 2}
+    variants:
+    - color1: {r: 1, g: 0.3443396, b: 0.3574528, a: 1}
+      color2: {r: 0.752047, g: 0.8124731, b: 0.9433962, a: 1}
+      colorSprite: {fileID: 0}
+      bodyTextures:
+      - {fileID: 2800000, guid: cff865ea08542274cbf80a5ed1cad3d0, type: 3}
+      bodyMaterials:
+      - {fileID: 2100000, guid: 94cab9c8904b7964a9284dd204d46a41, type: 2}
+      attributeTextures:
+      - {fileID: 2800000, guid: f0f9535ddd3d2564ca4ac1c0abeb8f17, type: 3}
+      - {fileID: 2800000, guid: 2a353171017b3ed42b5a8a9d396e2055, type: 3}
+      attributeMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      - {fileID: 2100000, guid: 8a5158603ea54204e9349fb063b00d76, type: 2}
+      pantyhoseTextures:
+      - {fileID: 2800000, guid: f0f9535ddd3d2564ca4ac1c0abeb8f17, type: 3}
+      pantyhoseMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      shoesTextures:
+      - {fileID: 2800000, guid: f0f9535ddd3d2564ca4ac1c0abeb8f17, type: 3}
+      - {fileID: 2800000, guid: 2a353171017b3ed42b5a8a9d396e2055, type: 3}
+      shoesMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      - {fileID: 2100000, guid: 8a5158603ea54204e9349fb063b00d76, type: 2}
+      skirtTextures: []
+      skirtMaterials: []
+      sweaterTextures:
+      - {fileID: 2800000, guid: f0f9535ddd3d2564ca4ac1c0abeb8f17, type: 3}
+      - {fileID: 2800000, guid: 2a353171017b3ed42b5a8a9d396e2055, type: 3}
+      sweaterMaterials:
+      - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+      - {fileID: 2100000, guid: 8a5158603ea54204e9349fb063b00d76, type: 2}
+      textureSadMitaBody: {fileID: 0}
+      textureSadMitaCloth: {fileID: 0}
+      textureSadMitaFace: {fileID: 0}
+      textureSadMitaHair: {fileID: 0}
+      addon:
+      - mesh: {fileID: 4300000, guid: d49ad7a4d887e8240a5ff3c6629864c3, type: 2}
+        textures:
+        - {fileID: 2800000, guid: f0f9535ddd3d2564ca4ac1c0abeb8f17, type: 3}
+        - {fileID: 2800000, guid: 2a353171017b3ed42b5a8a9d396e2055, type: 3}
+        materials:
+        - {fileID: 2100000, guid: 37229c21cdc06ea41830c27d98c3bfa1, type: 2}
+        - {fileID: 2100000, guid: 8a5158603ea54204e9349fb063b00d76, type: 2}
+      - mesh: {fileID: 0}
+        textures:
+        - {fileID: 0}
+        materials:
+        - {fileID: 0}
+      - mesh: {fileID: 4300000, guid: e29e1606f43943c47a61241849619288, type: 2}
+        textures:
+        - {fileID: 2800000, guid: 2a353171017b3ed42b5a8a9d396e2055, type: 3}
+        - {fileID: 2800000, guid: f0f9535ddd3d2564ca4ac1c0abeb8f17, type: 3}
+        materials:
+        - {fileID: 2100000, guid: 8a5158603ea54204e9349fb063b00d76, type: 2}
+        - {fileID: 2100000, guid: 94cab9c8904b7964a9284dd204d46a41, type: 2}
+    textureFace: {fileID: 0}
+    textureHairs: {fileID: 0}
+    sweaterMeshCap: {fileID: 4300000, guid: abdd1d7b8b0ee4847802eb67a29922a5, type: 2}
+    bodyMeshCap: {fileID: 0}
+    removeGloves: 0
+    prefabFull: {fileID: 1595109921917556, guid: 76aa03f19a2cf7d4793cc42c2d91bd2a, type: 2}
+    modNameCloth:

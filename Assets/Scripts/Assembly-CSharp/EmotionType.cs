@@ -1,0 +1,27 @@
+public enum EmotionType
+{
+	none = 0,
+	off = 1,
+	smile = 2,
+	angry = 3,
+	quest = 4,
+	smileteeth = 5,
+	sad = 6,
+	smilestrange = 7,
+	shy = 8,
+	smileobvi = 9,
+	smiletonque = 10,
+	smilecringe = 11,
+	sleep = 12,
+	halfsleep = 13,
+	surprise = 14,
+	emptiness = 15,
+	deactiveEmotion = 16,
+	suspicion = 17,
+	trytoque = 18,
+	discontent = 19,
+	ajar = 20,
+	catchQuest = 21,
+	arrogance = 22,
+	surpriseo = 23
+}

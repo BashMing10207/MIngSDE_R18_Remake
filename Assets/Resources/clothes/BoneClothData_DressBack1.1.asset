@@ -1,0 +1,3695 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1058441963, guid: 77c1fb63a97b2a54060a8c66a7cdfec6, type: 3}
+  m_Name: BoneClothData_DressBack1.1
+  m_EditorClassIdentifier:
+  dataHash: -866024016
+  dataVersion: 5
+  triangleBendAlgorithm: 1
+  restoreRotationAlgorithm: 1
+  clampRotationAlgorithm: 1
+  useVertexList: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c000000
+  selectionData: 020000000100000001000000010000000100000002000000010000000100000001000000010000000200000001000000010000000100000001000000020000000100000001000000010000000100000002000000010000000100000001000000010000000200000001000000010000000100000001000000020000000100000001000000010000000100000002000000010000000100000001000000010000000200000001000000010000000100000001000000
+  maxLevel: 5
+  vertexFlagLevelList: 010002000200020003000200040002000500030001000200020002000300020004000200050003000100020002000200030002000400020005000300010002000200020003000200040002000500030001000200020002000300020004000200050003000100020002000200030002000400020005000300010002000200020003000200040002000500030001000200020002000300020004000200050003000100020002000200030002000400020005000300
+  vertexDepthList:
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  - 0
+  - 0.25
+  - 0.5
+  - 0.75
+  - 1
+  rootList: ffffffff00000000000000000000000000000000ffffffff05000000050000000500000005000000ffffffff0a0000000a0000000a0000000a000000ffffffff0f0000000f0000000f0000000f000000ffffffff14000000140000001400000014000000ffffffff19000000190000001900000019000000ffffffff1e0000001e0000001e0000001e000000ffffffff23000000230000002300000023000000ffffffff28000000280000002800000028000000
+  parentList: ffffffff00000000010000000200000003000000ffffffff05000000060000000700000008000000ffffffff0a0000000b0000000c0000000d000000ffffffff0f000000100000001100000012000000ffffffff14000000150000001600000017000000ffffffff190000001a0000001b0000001c000000ffffffff1e0000001f0000002000000021000000ffffffff23000000240000002500000026000000ffffffff28000000290000002a0000002b000000
+  structDistanceDataList:
+  - vertexIndex: 0
+    targetVertexIndex: 1
+    length: 0.09258087
+  - vertexIndex: 0
+    targetVertexIndex: 6
+    length: 0.1525896
+  - vertexIndex: 0
+    targetVertexIndex: 41
+    length: 0.1711393
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.09258087
+  - vertexIndex: 1
+    targetVertexIndex: 2
+    length: 0.090579554
+  - vertexIndex: 1
+    targetVertexIndex: 6
+    length: 0.13408406
+  - vertexIndex: 1
+    targetVertexIndex: 41
+    length: 0.1583916
+  - vertexIndex: 2
+    targetVertexIndex: 1
+    length: 0.090579554
+  - vertexIndex: 2
+    targetVertexIndex: 3
+    length: 0.08794086
+  - vertexIndex: 2
+    targetVertexIndex: 6
+    length: 0.17118518
+  - vertexIndex: 2
+    targetVertexIndex: 41
+    length: 0.19119962
+  - vertexIndex: 2
+    targetVertexIndex: 7
+    length: 0.16068582
+  - vertexIndex: 2
+    targetVertexIndex: 42
+    length: 0.19006878
+  - vertexIndex: 3
+    targetVertexIndex: 2
+    length: 0.08794086
+  - vertexIndex: 3
+    targetVertexIndex: 4
+    length: 0.072035275
+  - vertexIndex: 3
+    targetVertexIndex: 7
+    length: 0.19019945
+  - vertexIndex: 3
+    targetVertexIndex: 42
+    length: 0.21615349
+  - vertexIndex: 3
+    targetVertexIndex: 8
+    length: 0.17670855
+  - vertexIndex: 3
+    targetVertexIndex: 43
+    length: 0.21209428
+  - vertexIndex: 4
+    targetVertexIndex: 3
+    length: 0.072035275
+  - vertexIndex: 4
+    targetVertexIndex: 8
+    length: 0.19676398
+  - vertexIndex: 4
+    targetVertexIndex: 43
+    length: 0.22903913
+  - vertexIndex: 4
+    targetVertexIndex: 9
+    length: 0.18645719
+  - vertexIndex: 4
+    targetVertexIndex: 44
+    length: 0.22815575
+  - vertexIndex: 5
+    targetVertexIndex: 6
+    length: 0.12461143
+  - vertexIndex: 6
+    targetVertexIndex: 0
+    length: 0.1525896
+  - vertexIndex: 6
+    targetVertexIndex: 1
+    length: 0.13408406
+  - vertexIndex: 6
+    targetVertexIndex: 2
+    length: 0.17118518
+  - vertexIndex: 6
+    targetVertexIndex: 5
+    length: 0.12461143
+  - vertexIndex: 6
+    targetVertexIndex: 7
+    length: 0.09609493
+  - vertexIndex: 6
+    targetVertexIndex: 10
+    length: 0.14158747
+  - vertexIndex: 6
+    targetVertexIndex: 11
+    length: 0.1179445
+  - vertexIndex: 7
+    targetVertexIndex: 2
+    length: 0.16068582
+  - vertexIndex: 7
+    targetVertexIndex: 3
+    length: 0.19019945
+  - vertexIndex: 7
+    targetVertexIndex: 6
+    length: 0.09609493
+  - vertexIndex: 7
+    targetVertexIndex: 8
+    length: 0.086222015
+  - vertexIndex: 7
+    targetVertexIndex: 11
+    length: 0.17083389
+  - vertexIndex: 7
+    targetVertexIndex: 12
+    length: 0.15307537
+  - vertexIndex: 8
+    targetVertexIndex: 3
+    length: 0.17670855
+  - vertexIndex: 8
+    targetVertexIndex: 4
+    length: 0.19676398
+  - vertexIndex: 8
+    targetVertexIndex: 7
+    length: 0.086222015
+  - vertexIndex: 8
+    targetVertexIndex: 9
+    length: 0.07452747
+  - vertexIndex: 8
+    targetVertexIndex: 12
+    length: 0.19057392
+  - vertexIndex: 8
+    targetVertexIndex: 13
+    length: 0.18168636
+  - vertexIndex: 9
+    targetVertexIndex: 4
+    length: 0.18645719
+  - vertexIndex: 9
+    targetVertexIndex: 8
+    length: 0.07452747
+  - vertexIndex: 9
+    targetVertexIndex: 13
+    length: 0.2065698
+  - vertexIndex: 9
+    targetVertexIndex: 14
+    length: 0.196749
+  - vertexIndex: 10
+    targetVertexIndex: 6
+    length: 0.14158747
+  - vertexIndex: 10
+    targetVertexIndex: 11
+    length: 0.09640327
+  - vertexIndex: 10
+    targetVertexIndex: 16
+    length: 0.11327001
+  - vertexIndex: 11
+    targetVertexIndex: 6
+    length: 0.1179445
+  - vertexIndex: 11
+    targetVertexIndex: 7
+    length: 0.17083389
+  - vertexIndex: 11
+    targetVertexIndex: 10
+    length: 0.09640327
+  - vertexIndex: 11
+    targetVertexIndex: 12
+    length: 0.09609496
+  - vertexIndex: 11
+    targetVertexIndex: 16
+    length: 0.077749275
+  - vertexIndex: 12
+    targetVertexIndex: 7
+    length: 0.15307537
+  - vertexIndex: 12
+    targetVertexIndex: 8
+    length: 0.19057392
+  - vertexIndex: 12
+    targetVertexIndex: 11
+    length: 0.09609496
+  - vertexIndex: 12
+    targetVertexIndex: 13
+    length: 0.09514408
+  - vertexIndex: 12
+    targetVertexIndex: 16
+    length: 0.13310926
+  - vertexIndex: 12
+    targetVertexIndex: 17
+    length: 0.10102978
+  - vertexIndex: 13
+    targetVertexIndex: 8
+    length: 0.18168636
+  - vertexIndex: 13
+    targetVertexIndex: 9
+    length: 0.2065698
+  - vertexIndex: 13
+    targetVertexIndex: 12
+    length: 0.09514408
+  - vertexIndex: 13
+    targetVertexIndex: 14
+    length: 0.07249065
+  - vertexIndex: 13
+    targetVertexIndex: 17
+    length: 0.14726588
+  - vertexIndex: 13
+    targetVertexIndex: 18
+    length: 0.1148279
+  - vertexIndex: 14
+    targetVertexIndex: 9
+    length: 0.196749
+  - vertexIndex: 14
+    targetVertexIndex: 13
+    length: 0.07249065
+  - vertexIndex: 14
+    targetVertexIndex: 18
+    length: 0.14803144
+  - vertexIndex: 14
+    targetVertexIndex: 19
+    length: 0.12662116
+  - vertexIndex: 15
+    targetVertexIndex: 16
+    length: 0.09961512
+  - vertexIndex: 15
+    targetVertexIndex: 21
+    length: 0.11901662
+  - vertexIndex: 16
+    targetVertexIndex: 10
+    length: 0.11327001
+  - vertexIndex: 16
+    targetVertexIndex: 11
+    length: 0.077749275
+  - vertexIndex: 16
+    targetVertexIndex: 12
+    length: 0.13310926
+  - vertexIndex: 16
+    targetVertexIndex: 15
+    length: 0.09961512
+  - vertexIndex: 16
+    targetVertexIndex: 17
+    length: 0.096159115
+  - vertexIndex: 16
+    targetVertexIndex: 21
+    length: 0.09091527
+  - vertexIndex: 17
+    targetVertexIndex: 12
+    length: 0.10102978
+  - vertexIndex: 17
+    targetVertexIndex: 13
+    length: 0.14726588
+  - vertexIndex: 17
+    targetVertexIndex: 16
+    length: 0.096159115
+  - vertexIndex: 17
+    targetVertexIndex: 18
+    length: 0.08406221
+  - vertexIndex: 17
+    targetVertexIndex: 21
+    length: 0.14351797
+  - vertexIndex: 17
+    targetVertexIndex: 22
+    length: 0.1226833
+  - vertexIndex: 18
+    targetVertexIndex: 13
+    length: 0.1148279
+  - vertexIndex: 18
+    targetVertexIndex: 14
+    length: 0.14803144
+  - vertexIndex: 18
+    targetVertexIndex: 17
+    length: 0.08406221
+  - vertexIndex: 18
+    targetVertexIndex: 19
+    length: 0.072863534
+  - vertexIndex: 18
+    targetVertexIndex: 22
+    length: 0.16268532
+  - vertexIndex: 18
+    targetVertexIndex: 23
+    length: 0.13862848
+  - vertexIndex: 19
+    targetVertexIndex: 14
+    length: 0.12662116
+  - vertexIndex: 19
+    targetVertexIndex: 18
+    length: 0.072863534
+  - vertexIndex: 19
+    targetVertexIndex: 23
+    length: 0.1586905
+  - vertexIndex: 19
+    targetVertexIndex: 24
+    length: 0.14848979
+  - vertexIndex: 20
+    targetVertexIndex: 21
+    length: 0.09866929
+  - vertexIndex: 20
+    targetVertexIndex: 26
+    length: 0.14199069
+  - vertexIndex: 21
+    targetVertexIndex: 15
+    length: 0.11901662
+  - vertexIndex: 21
+    targetVertexIndex: 16
+    length: 0.09091527
+  - vertexIndex: 21
+    targetVertexIndex: 17
+    length: 0.14351797
+  - vertexIndex: 21
+    targetVertexIndex: 20
+    length: 0.09866929
+  - vertexIndex: 21
+    targetVertexIndex: 22
+    length: 0.090728566
+  - vertexIndex: 21
+    targetVertexIndex: 26
+    length: 0.15194441
+  - vertexIndex: 22
+    targetVertexIndex: 17
+    length: 0.1226833
+  - vertexIndex: 22
+    targetVertexIndex: 18
+    length: 0.16268532
+  - vertexIndex: 22
+    targetVertexIndex: 21
+    length: 0.090728566
+  - vertexIndex: 22
+    targetVertexIndex: 23
+    length: 0.09391646
+  - vertexIndex: 22
+    targetVertexIndex: 26
+    length: 0.19752938
+  - vertexIndex: 22
+    targetVertexIndex: 27
+    length: 0.18203413
+  - vertexIndex: 23
+    targetVertexIndex: 18
+    length: 0.13862848
+  - vertexIndex: 23
+    targetVertexIndex: 19
+    length: 0.1586905
+  - vertexIndex: 23
+    targetVertexIndex: 22
+    length: 0.09391646
+  - vertexIndex: 23
+    targetVertexIndex: 24
+    length: 0.07501985
+  - vertexIndex: 23
+    targetVertexIndex: 27
+    length: 0.22137736
+  - vertexIndex: 23
+    targetVertexIndex: 28
+    length: 0.21005295
+  - vertexIndex: 24
+    targetVertexIndex: 19
+    length: 0.14848979
+  - vertexIndex: 24
+    targetVertexIndex: 23
+    length: 0.07501985
+  - vertexIndex: 24
+    targetVertexIndex: 28
+    length: 0.22707337
+  - vertexIndex: 24
+    targetVertexIndex: 29
+    length: 0.22262782
+  - vertexIndex: 25
+    targetVertexIndex: 26
+    length: 0.10030831
+  - vertexIndex: 26
+    targetVertexIndex: 20
+    length: 0.14199069
+  - vertexIndex: 26
+    targetVertexIndex: 21
+    length: 0.15194441
+  - vertexIndex: 26
+    targetVertexIndex: 22
+    length: 0.19752938
+  - vertexIndex: 26
+    targetVertexIndex: 25
+    length: 0.10030831
+  - vertexIndex: 26
+    targetVertexIndex: 27
+    length: 0.09924333
+  - vertexIndex: 26
+    targetVertexIndex: 30
+    length: 0.1445759
+  - vertexIndex: 26
+    targetVertexIndex: 31
+    length: 0.15214123
+  - vertexIndex: 27
+    targetVertexIndex: 22
+    length: 0.18203413
+  - vertexIndex: 27
+    targetVertexIndex: 23
+    length: 0.22137736
+  - vertexIndex: 27
+    targetVertexIndex: 26
+    length: 0.09924333
+  - vertexIndex: 27
+    targetVertexIndex: 28
+    length: 0.10119066
+  - vertexIndex: 27
+    targetVertexIndex: 31
+    length: 0.18959251
+  - vertexIndex: 27
+    targetVertexIndex: 32
+    length: 0.18589488
+  - vertexIndex: 28
+    targetVertexIndex: 23
+    length: 0.21005295
+  - vertexIndex: 28
+    targetVertexIndex: 24
+    length: 0.22707337
+  - vertexIndex: 28
+    targetVertexIndex: 27
+    length: 0.10119066
+  - vertexIndex: 28
+    targetVertexIndex: 29
+    length: 0.07365307
+  - vertexIndex: 28
+    targetVertexIndex: 32
+    length: 0.22013801
+  - vertexIndex: 28
+    targetVertexIndex: 33
+    length: 0.20964561
+  - vertexIndex: 29
+    targetVertexIndex: 24
+    length: 0.22262782
+  - vertexIndex: 29
+    targetVertexIndex: 28
+    length: 0.07365307
+  - vertexIndex: 29
+    targetVertexIndex: 33
+    length: 0.23276064
+  - vertexIndex: 29
+    targetVertexIndex: 34
+    length: 0.22663912
+  - vertexIndex: 30
+    targetVertexIndex: 26
+    length: 0.1445759
+  - vertexIndex: 30
+    targetVertexIndex: 31
+    length: 0.10028672
+  - vertexIndex: 30
+    targetVertexIndex: 36
+    length: 0.1443439
+  - vertexIndex: 31
+    targetVertexIndex: 26
+    length: 0.15214123
+  - vertexIndex: 31
+    targetVertexIndex: 27
+    length: 0.18959251
+  - vertexIndex: 31
+    targetVertexIndex: 30
+    length: 0.10028672
+  - vertexIndex: 31
+    targetVertexIndex: 32
+    length: 0.09329264
+  - vertexIndex: 31
+    targetVertexIndex: 36
+    length: 0.12742227
+  - vertexIndex: 31
+    targetVertexIndex: 35
+    length: 0.13290466
+  - vertexIndex: 32
+    targetVertexIndex: 27
+    length: 0.18589488
+  - vertexIndex: 32
+    targetVertexIndex: 28
+    length: 0.22013801
+  - vertexIndex: 32
+    targetVertexIndex: 31
+    length: 0.09329264
+  - vertexIndex: 32
+    targetVertexIndex: 33
+    length: 0.08839073
+  - vertexIndex: 32
+    targetVertexIndex: 36
+    length: 0.16594064
+  - vertexIndex: 32
+    targetVertexIndex: 37
+    length: 0.16884883
+  - vertexIndex: 33
+    targetVertexIndex: 28
+    length: 0.20964561
+  - vertexIndex: 33
+    targetVertexIndex: 29
+    length: 0.23276064
+  - vertexIndex: 33
+    targetVertexIndex: 32
+    length: 0.08839073
+  - vertexIndex: 33
+    targetVertexIndex: 34
+    length: 0.078451514
+  - vertexIndex: 33
+    targetVertexIndex: 37
+    length: 0.18996781
+  - vertexIndex: 33
+    targetVertexIndex: 38
+    length: 0.1901228
+  - vertexIndex: 34
+    targetVertexIndex: 29
+    length: 0.22663912
+  - vertexIndex: 34
+    targetVertexIndex: 33
+    length: 0.078451514
+  - vertexIndex: 34
+    targetVertexIndex: 38
+    length: 0.20412542
+  - vertexIndex: 34
+    targetVertexIndex: 39
+    length: 0.20143719
+  - vertexIndex: 35
+    targetVertexIndex: 31
+    length: 0.13290466
+  - vertexIndex: 35
+    targetVertexIndex: 36
+    length: 0.105141215
+  - vertexIndex: 35
+    targetVertexIndex: 41
+    length: 0.15803544
+  - vertexIndex: 36
+    targetVertexIndex: 30
+    length: 0.1443439
+  - vertexIndex: 36
+    targetVertexIndex: 31
+    length: 0.12742227
+  - vertexIndex: 36
+    targetVertexIndex: 32
+    length: 0.16594064
+  - vertexIndex: 36
+    targetVertexIndex: 35
+    length: 0.105141215
+  - vertexIndex: 36
+    targetVertexIndex: 37
+    length: 0.09659473
+  - vertexIndex: 36
+    targetVertexIndex: 41
+    length: 0.1318324
+  - vertexIndex: 36
+    targetVertexIndex: 40
+    length: 0.13830587
+  - vertexIndex: 37
+    targetVertexIndex: 32
+    length: 0.16884883
+  - vertexIndex: 37
+    targetVertexIndex: 33
+    length: 0.18996781
+  - vertexIndex: 37
+    targetVertexIndex: 36
+    length: 0.09659473
+  - vertexIndex: 37
+    targetVertexIndex: 38
+    length: 0.087302424
+  - vertexIndex: 37
+    targetVertexIndex: 41
+    length: 0.16934916
+  - vertexIndex: 37
+    targetVertexIndex: 42
+    length: 0.16713616
+  - vertexIndex: 38
+    targetVertexIndex: 33
+    length: 0.1901228
+  - vertexIndex: 38
+    targetVertexIndex: 34
+    length: 0.20412542
+  - vertexIndex: 38
+    targetVertexIndex: 37
+    length: 0.087302424
+  - vertexIndex: 38
+    targetVertexIndex: 39
+    length: 0.06473843
+  - vertexIndex: 38
+    targetVertexIndex: 42
+    length: 0.19286968
+  - vertexIndex: 38
+    targetVertexIndex: 43
+    length: 0.18990484
+  - vertexIndex: 39
+    targetVertexIndex: 34
+    length: 0.20143719
+  - vertexIndex: 39
+    targetVertexIndex: 38
+    length: 0.06473843
+  - vertexIndex: 39
+    targetVertexIndex: 43
+    length: 0.19693774
+  - vertexIndex: 39
+    targetVertexIndex: 44
+    length: 0.20025194
+  - vertexIndex: 40
+    targetVertexIndex: 36
+    length: 0.13830587
+  - vertexIndex: 40
+    targetVertexIndex: 41
+    length: 0.12461128
+  - vertexIndex: 41
+    targetVertexIndex: 0
+    length: 0.1711393
+  - vertexIndex: 41
+    targetVertexIndex: 1
+    length: 0.1583916
+  - vertexIndex: 41
+    targetVertexIndex: 2
+    length: 0.19119962
+  - vertexIndex: 41
+    targetVertexIndex: 35
+    length: 0.15803544
+  - vertexIndex: 41
+    targetVertexIndex: 36
+    length: 0.1318324
+  - vertexIndex: 41
+    targetVertexIndex: 37
+    length: 0.16934916
+  - vertexIndex: 41
+    targetVertexIndex: 40
+    length: 0.12461128
+  - vertexIndex: 41
+    targetVertexIndex: 42
+    length: 0.09504942
+  - vertexIndex: 42
+    targetVertexIndex: 2
+    length: 0.19006878
+  - vertexIndex: 42
+    targetVertexIndex: 3
+    length: 0.21615349
+  - vertexIndex: 42
+    targetVertexIndex: 37
+    length: 0.16713616
+  - vertexIndex: 42
+    targetVertexIndex: 38
+    length: 0.19286968
+  - vertexIndex: 42
+    targetVertexIndex: 41
+    length: 0.09504942
+  - vertexIndex: 42
+    targetVertexIndex: 43
+    length: 0.08555646
+  - vertexIndex: 43
+    targetVertexIndex: 3
+    length: 0.21209428
+  - vertexIndex: 43
+    targetVertexIndex: 4
+    length: 0.22903913
+  - vertexIndex: 43
+    targetVertexIndex: 38
+    length: 0.18990484
+  - vertexIndex: 43
+    targetVertexIndex: 39
+    length: 0.19693774
+  - vertexIndex: 43
+    targetVertexIndex: 42
+    length: 0.08555646
+  - vertexIndex: 43
+    targetVertexIndex: 44
+    length: 0.075890936
+  - vertexIndex: 44
+    targetVertexIndex: 4
+    length: 0.22815575
+  - vertexIndex: 44
+    targetVertexIndex: 39
+    length: 0.20025194
+  - vertexIndex: 44
+    targetVertexIndex: 43
+    length: 0.075890936
+  structDistanceReferenceList:
+  - startIndex: 0
+    count: 3
+  - startIndex: 3
+    count: 4
+  - startIndex: 7
+    count: 6
+  - startIndex: 13
+    count: 6
+  - startIndex: 19
+    count: 5
+  - startIndex: 24
+    count: 1
+  - startIndex: 25
+    count: 7
+  - startIndex: 32
+    count: 6
+  - startIndex: 38
+    count: 6
+  - startIndex: 44
+    count: 4
+  - startIndex: 48
+    count: 3
+  - startIndex: 51
+    count: 5
+  - startIndex: 56
+    count: 6
+  - startIndex: 62
+    count: 6
+  - startIndex: 68
+    count: 4
+  - startIndex: 72
+    count: 2
+  - startIndex: 74
+    count: 6
+  - startIndex: 80
+    count: 6
+  - startIndex: 86
+    count: 6
+  - startIndex: 92
+    count: 4
+  - startIndex: 96
+    count: 2
+  - startIndex: 98
+    count: 6
+  - startIndex: 104
+    count: 6
+  - startIndex: 110
+    count: 6
+  - startIndex: 116
+    count: 4
+  - startIndex: 120
+    count: 1
+  - startIndex: 121
+    count: 7
+  - startIndex: 128
+    count: 6
+  - startIndex: 134
+    count: 6
+  - startIndex: 140
+    count: 4
+  - startIndex: 144
+    count: 3
+  - startIndex: 147
+    count: 6
+  - startIndex: 153
+    count: 6
+  - startIndex: 159
+    count: 6
+  - startIndex: 165
+    count: 4
+  - startIndex: 169
+    count: 3
+  - startIndex: 172
+    count: 7
+  - startIndex: 179
+    count: 6
+  - startIndex: 185
+    count: 6
+  - startIndex: 191
+    count: 4
+  - startIndex: 195
+    count: 2
+  - startIndex: 197
+    count: 8
+  - startIndex: 205
+    count: 6
+  - startIndex: 211
+    count: 6
+  - startIndex: 217
+    count: 3
+  bendDistanceDataList: []
+  bendDistanceReferenceList: []
+  nearDistanceDataList: []
+  nearDistanceReferenceList: []
+  rootDistanceDataList:
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.09258087
+  - vertexIndex: 2
+    targetVertexIndex: 0
+    length: 0.18271074
+  - vertexIndex: 3
+    targetVertexIndex: 0
+    length: 0.2699693
+  - vertexIndex: 4
+    targetVertexIndex: 0
+    length: 0.34043074
+  - vertexIndex: 6
+    targetVertexIndex: 5
+    length: 0.12461143
+  - vertexIndex: 7
+    targetVertexIndex: 5
+    length: 0.21954374
+  - vertexIndex: 8
+    targetVertexIndex: 5
+    length: 0.30296332
+  - vertexIndex: 9
+    targetVertexIndex: 5
+    length: 0.37510002
+  - vertexIndex: 11
+    targetVertexIndex: 10
+    length: 0.09640327
+  - vertexIndex: 12
+    targetVertexIndex: 10
+    length: 0.19228081
+  - vertexIndex: 13
+    targetVertexIndex: 10
+    length: 0.2869792
+  - vertexIndex: 14
+    targetVertexIndex: 10
+    length: 0.3576448
+  - vertexIndex: 16
+    targetVertexIndex: 15
+    length: 0.09961512
+  - vertexIndex: 17
+    targetVertexIndex: 15
+    length: 0.19505766
+  - vertexIndex: 18
+    targetVertexIndex: 15
+    length: 0.27720797
+  - vertexIndex: 19
+    targetVertexIndex: 15
+    length: 0.3470327
+  - vertexIndex: 21
+    targetVertexIndex: 20
+    length: 0.09866929
+  - vertexIndex: 22
+    targetVertexIndex: 20
+    length: 0.18793327
+  - vertexIndex: 23
+    targetVertexIndex: 20
+    length: 0.27773768
+  - vertexIndex: 24
+    targetVertexIndex: 20
+    length: 0.3488701
+  - vertexIndex: 26
+    targetVertexIndex: 25
+    length: 0.10030831
+  - vertexIndex: 27
+    targetVertexIndex: 25
+    length: 0.19466788
+  - vertexIndex: 28
+    targetVertexIndex: 25
+    length: 0.29131323
+  - vertexIndex: 29
+    targetVertexIndex: 25
+    length: 0.36262617
+  - vertexIndex: 31
+    targetVertexIndex: 30
+    length: 0.10028672
+  - vertexIndex: 32
+    targetVertexIndex: 30
+    length: 0.19008017
+  - vertexIndex: 33
+    targetVertexIndex: 30
+    length: 0.2726511
+  - vertexIndex: 34
+    targetVertexIndex: 30
+    length: 0.34661683
+  - vertexIndex: 36
+    targetVertexIndex: 35
+    length: 0.105141215
+  - vertexIndex: 37
+    targetVertexIndex: 35
+    length: 0.20129336
+  - vertexIndex: 38
+    targetVertexIndex: 35
+    length: 0.2870383
+  - vertexIndex: 39
+    targetVertexIndex: 35
+    length: 0.34857446
+  - vertexIndex: 41
+    targetVertexIndex: 40
+    length: 0.12461128
+  - vertexIndex: 42
+    targetVertexIndex: 40
+    length: 0.21812192
+  - vertexIndex: 43
+    targetVertexIndex: 40
+    length: 0.30111703
+  - vertexIndex: 44
+    targetVertexIndex: 40
+    length: 0.37534508
+  rootDistanceReferenceList:
+  - startIndex: 0
+    count: 0
+  - startIndex: 0
+    count: 1
+  - startIndex: 1
+    count: 1
+  - startIndex: 2
+    count: 1
+  - startIndex: 3
+    count: 1
+  - startIndex: 4
+    count: 0
+  - startIndex: 4
+    count: 1
+  - startIndex: 5
+    count: 1
+  - startIndex: 6
+    count: 1
+  - startIndex: 7
+    count: 1
+  - startIndex: 8
+    count: 0
+  - startIndex: 8
+    count: 1
+  - startIndex: 9
+    count: 1
+  - startIndex: 10
+    count: 1
+  - startIndex: 11
+    count: 1
+  - startIndex: 12
+    count: 0
+  - startIndex: 12
+    count: 1
+  - startIndex: 13
+    count: 1
+  - startIndex: 14
+    count: 1
+  - startIndex: 15
+    count: 1
+  - startIndex: 16
+    count: 0
+  - startIndex: 16
+    count: 1
+  - startIndex: 17
+    count: 1
+  - startIndex: 18
+    count: 1
+  - startIndex: 19
+    count: 1
+  - startIndex: 20
+    count: 0
+  - startIndex: 20
+    count: 1
+  - startIndex: 21
+    count: 1
+  - startIndex: 22
+    count: 1
+  - startIndex: 23
+    count: 1
+  - startIndex: 24
+    count: 0
+  - startIndex: 24
+    count: 1
+  - startIndex: 25
+    count: 1
+  - startIndex: 26
+    count: 1
+  - startIndex: 27
+    count: 1
+  - startIndex: 28
+    count: 0
+  - startIndex: 28
+    count: 1
+  - startIndex: 29
+    count: 1
+  - startIndex: 30
+    count: 1
+  - startIndex: 31
+    count: 1
+  - startIndex: 32
+    count: 0
+  - startIndex: 32
+    count: 1
+  - startIndex: 33
+    count: 1
+  - startIndex: 34
+    count: 1
+  - startIndex: 35
+    count: 1
+  clampDistance2DataList: []
+  clampDistance2RootInfoList: []
+  restoreRotationDataList: []
+  restoreRotationReferenceList: []
+  clampRotationDataList: []
+  clampRotationRootInfoList: []
+  compositeRotationDataList:
+  - vertexIndex: 1
+    parentVertexIndex: 0
+    localPos:
+      x: 2.8327744E-07
+      y: 1
+      z: 9.225148E-07
+    localRot:
+      value:
+        x: -0.06986705
+        y: 0.00060232304
+        z: -0.0048311674
+        w: 0.9975444
+  - vertexIndex: 2
+    parentVertexIndex: 1
+    localPos:
+      x: -7.309599E-07
+      y: 1
+      z: -1.3815655E-07
+    localRot:
+      value:
+        x: -0.040434036
+        y: -3.7206903E-06
+        z: 1.2298565E-05
+        w: 0.9991822
+  - vertexIndex: 3
+    parentVertexIndex: 2
+    localPos:
+      x: 2.2981142E-08
+      y: 1
+      z: -1.2082184E-06
+    localRot:
+      value:
+        x: 0.00034492827
+        y: -0.9977841
+        z: 0.06653521
+        w: -0.00010372137
+  - vertexIndex: 4
+    parentVertexIndex: 3
+    localPos:
+      x: 6.8296174E-08
+      y: 1.0000001
+      z: -2.4712855E-07
+    localRot:
+      value:
+        x: 0.07284854
+        y: -2.5159054E-08
+        z: -1.5485217E-08
+        w: 0.99734306
+  - vertexIndex: 6
+    parentVertexIndex: 5
+    localPos:
+      x: -3.0964364E-07
+      y: 1.0000001
+      z: -1.1648489E-06
+    localRot:
+      value:
+        x: -0.095305234
+        y: -0.011838958
+        z: -0.04004027
+        w: 0.9945721
+  - vertexIndex: 7
+    parentVertexIndex: 6
+    localPos:
+      x: 5.3462404E-08
+      y: 1.0000001
+      z: 1.324114E-06
+    localRot:
+      value:
+        x: -0.08975296
+        y: 0.0020742342
+        z: -0.02209035
+        w: 0.9957169
+  - vertexIndex: 8
+    parentVertexIndex: 7
+    localPos:
+      x: -4.321159E-07
+      y: 1.0000002
+      z: 2.9601736E-07
+    localRot:
+      value:
+        x: -0.016748616
+        y: -0.9789454
+        z: 0.02870526
+        w: 0.20139895
+  - vertexIndex: 9
+    parentVertexIndex: 8
+    localPos:
+      x: -6.060009E-07
+      y: 1.0000001
+      z: -3.5003688E-07
+    localRot:
+      value:
+        x: 0.09551757
+        y: -1.6710084E-07
+        z: 0.0691535
+        w: 0.9930228
+  - vertexIndex: 11
+    parentVertexIndex: 10
+    localPos:
+      x: 4.2466922E-07
+      y: 1.0000002
+      z: -3.6769066E-07
+    localRot:
+      value:
+        x: -0.04740454
+        y: -0.0054937922
+        z: -0.003234593
+        w: 0.9988555
+  - vertexIndex: 12
+    parentVertexIndex: 11
+    localPos:
+      x: -7.4226784E-07
+      y: 0.99999994
+      z: -5.4675047E-07
+    localRot:
+      value:
+        x: -0.034981452
+        y: 2.5248331E-05
+        z: 0.008658101
+        w: 0.9993505
+  - vertexIndex: 13
+    parentVertexIndex: 12
+    localPos:
+      x: 3.9074519E-07
+      y: 1.0000001
+      z: 7.0932356E-07
+    localRot:
+      value:
+        x: -0.06760173
+        y: -0.76307994
+        z: 0.05528103
+        w: 0.64037734
+  - vertexIndex: 14
+    parentVertexIndex: 13
+    localPos:
+      x: -1.222295E-06
+      y: 1
+      z: 1.0579371E-07
+    localRot:
+      value:
+        x: 0.045337398
+        y: -0.0012110115
+        z: 0.16629536
+        w: 0.98503244
+  - vertexIndex: 16
+    parentVertexIndex: 15
+    localPos:
+      x: -6.646031E-07
+      y: 1
+      z: 6.028152E-07
+    localRot:
+      value:
+        x: -0.08513998
+        y: 0.0063926964
+        z: 0.007771837
+        w: 0.9963182
+  - vertexIndex: 17
+    parentVertexIndex: 16
+    localPos:
+      x: 7.011953E-08
+      y: 1.0000001
+      z: -3.354183E-07
+    localRot:
+      value:
+        x: -0.08342522
+        y: 0.0012370948
+        z: -0.017586984
+        w: 0.9963581
+  - vertexIndex: 18
+    parentVertexIndex: 17
+    localPos:
+      x: 8.431333E-08
+      y: 1
+      z: 6.2060644E-07
+    localRot:
+      value:
+        x: -0.04238269
+        y: -0.5945258
+        z: 0.06515651
+        w: 0.8003108
+  - vertexIndex: 19
+    parentVertexIndex: 18
+    localPos:
+      x: 1.4739092E-06
+      y: 1
+      z: -3.3630423E-07
+    localRot:
+      value:
+        x: -0.03281976
+        y: -4.8586212E-08
+        z: 0.12500127
+        w: 0.99161357
+  - vertexIndex: 21
+    parentVertexIndex: 20
+    localPos:
+      x: -6.9979046E-07
+      y: 1
+      z: 1.3380061E-07
+    localRot:
+      value:
+        x: -0.117451385
+        y: 0.020313568
+        z: 0.04047699
+        w: 0.9920455
+  - vertexIndex: 22
+    parentVertexIndex: 21
+    localPos:
+      x: -6.7218804E-07
+      y: 1.0000002
+      z: 4.831273E-07
+    localRot:
+      value:
+        x: -0.11689836
+        y: 0.0029331835
+        z: -0.05010408
+        w: 0.99187493
+  - vertexIndex: 23
+    parentVertexIndex: 22
+    localPos:
+      x: 1.3288842E-07
+      y: 1
+      z: 2.2913187E-07
+    localRot:
+      value:
+        x: -0.045955673
+        y: -0.3742018
+        z: 0.051693402
+        w: 0.92476434
+  - vertexIndex: 24
+    parentVertexIndex: 23
+    localPos:
+      x: 9.3539796E-07
+      y: 1.0000002
+      z: 2.1215884E-07
+    localRot:
+      value:
+        x: -0.06992127
+        y: 0.00022130285
+        z: 0.06301018
+        w: 0.9955605
+  - vertexIndex: 26
+    parentVertexIndex: 25
+    localPos:
+      x: -5.974925E-07
+      y: 1
+      z: 6.924727E-07
+    localRot:
+      value:
+        x: -0.21988559
+        y: -0.0060098036
+        z: 0.00010962816
+        w: 0.97550714
+  - vertexIndex: 27
+    parentVertexIndex: 26
+    localPos:
+      x: 8.6054615E-07
+      y: 1.0000001
+      z: 6.480194E-07
+    localRot:
+      value:
+        x: -0.07349198
+        y: -4.9258797E-06
+        z: 0.005074063
+        w: 0.997283
+  - vertexIndex: 28
+    parentVertexIndex: 27
+    localPos:
+      x: -9.825928E-09
+      y: 1.0000002
+      z: 1.829813E-07
+    localRot:
+      value:
+        x: -0.01927879
+        y: 0.00032534104
+        z: -0.0025323397
+        w: 0.99981093
+  - vertexIndex: 29
+    parentVertexIndex: 28
+    localPos:
+      x: 1.6552842E-09
+      y: 1
+      z: 8.744079E-07
+    localRot:
+      value:
+        x: -0.0073663592
+        y: 2.3365362E-10
+        z: 1.3526696E-09
+        w: 0.9999729
+  - vertexIndex: 31
+    parentVertexIndex: 30
+    localPos:
+      x: 2.3546583E-07
+      y: 1
+      z: -6.364124E-07
+    localRot:
+      value:
+        x: -0.18870178
+        y: -0.021991067
+        z: -0.016261665
+        w: 0.9816535
+  - vertexIndex: 32
+    parentVertexIndex: 31
+    localPos:
+      x: 2.86389E-07
+      y: 1.0000001
+      z: -6.5453616E-09
+    localRot:
+      value:
+        x: -0.12064366
+        y: -0.00057437585
+        z: 0.02436572
+        w: 0.99239665
+  - vertexIndex: 33
+    parentVertexIndex: 32
+    localPos:
+      x: 9.396428E-07
+      y: 1.0000001
+      z: 1.223287E-09
+    localRot:
+      value:
+        x: -0.04071167
+        y: 0.375074
+        z: -0.008860106
+        w: 0.9260581
+  - vertexIndex: 34
+    parentVertexIndex: 33
+    localPos:
+      x: -1.1174363E-06
+      y: 1.0000001
+      z: -7.8129483E-07
+    localRot:
+      value:
+        x: -0.058241803
+        y: 0.0008486769
+        z: -0.08820334
+        w: 0.994398
+  - vertexIndex: 36
+    parentVertexIndex: 35
+    localPos:
+      x: -4.166771E-07
+      y: 1.0000001
+      z: 2.3497257E-07
+    localRot:
+      value:
+        x: -0.06617676
+        y: 0.00020162083
+        z: -0.0033692922
+        w: 0.99780226
+  - vertexIndex: 37
+    parentVertexIndex: 36
+    localPos:
+      x: 6.0488E-07
+      y: 1.0000001
+      z: -3.632513E-08
+    localRot:
+      value:
+        x: -0.07797732
+        y: 1.455202E-05
+        z: -0.009876747
+        w: 0.9969063
+  - vertexIndex: 38
+    parentVertexIndex: 37
+    localPos:
+      x: 1.796417E-07
+      y: 1.0000002
+      z: -6.259629E-07
+    localRot:
+      value:
+        x: -0.084508725
+        y: 0.68904376
+        z: -0.049483124
+        w: 0.7180728
+  - vertexIndex: 39
+    parentVertexIndex: 38
+    localPos:
+      x: -5.9337015E-07
+      y: 1
+      z: -1.9232742E-07
+    localRot:
+      value:
+        x: 0.020190896
+        y: 0.0035406437
+        z: -0.12426535
+        w: 0.99203724
+  - vertexIndex: 41
+    parentVertexIndex: 40
+    localPos:
+      x: -5.5774984E-07
+      y: 1
+      z: 2.8070488E-07
+    localRot:
+      value:
+        x: -0.11433216
+        y: 0.007436661
+        z: -0.033868045
+        w: 0.9928373
+  - vertexIndex: 42
+    parentVertexIndex: 41
+    localPos:
+      x: 7.9561136E-07
+      y: 1.0000001
+      z: 2.2661047E-07
+    localRot:
+      value:
+        x: -0.07771587
+        y: -0.0027244498
+        z: -0.0032521188
+        w: 0.99696654
+  - vertexIndex: 43
+    parentVertexIndex: 42
+    localPos:
+      x: -5.479031E-07
+      y: 1.0000001
+      z: 2.821706E-07
+    localRot:
+      value:
+        x: 0.005632905
+        y: -0.9314862
+        z: 0.012294608
+        w: -0.36352524
+  - vertexIndex: 44
+    parentVertexIndex: 43
+    localPos:
+      x: 7.634732E-07
+      y: 0.99999994
+      z: 1.9671742E-08
+    localRot:
+      value:
+        x: 0.08660471
+        y: -9.053591E-09
+        z: -0.11326121
+        w: 0.9897836
+  compositeRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 4
+  - startIndex: 4
+    dataLength: 4
+  - startIndex: 8
+    dataLength: 4
+  - startIndex: 12
+    dataLength: 4
+  - startIndex: 16
+    dataLength: 4
+  - startIndex: 20
+    dataLength: 4
+  - startIndex: 24
+    dataLength: 4
+  - startIndex: 28
+    dataLength: 4
+  - startIndex: 32
+    dataLength: 4
+  twistDataList: []
+  twistReferenceList: []
+  adjustRotationDataList: []
+  triangleBendDataList:
+  - vindex0: 6
+    vindex1: 41
+    vindex2: 0
+    vindex3: 1
+    restAngle: 0.25978902
+    direction: 0.02378188
+    depth: 0.125
+    writeIndex0: 49
+    writeIndex1: 357
+    writeIndex2: 0
+    writeIndex3: 7
+  - vindex0: 1
+    vindex1: 5
+    vindex2: 0
+    vindex3: 6
+    restAngle: -0.15517166
+    direction: -0.02358267
+    depth: 0.125
+    writeIndex0: 8
+    writeIndex1: 46
+    writeIndex2: 1
+    writeIndex3: 50
+  - vindex0: 0
+    vindex1: 2
+    vindex2: 1
+    vindex3: 6
+    restAngle: 0.14135168
+    direction: 0.018889934
+    depth: 0.25
+    writeIndex0: 2
+    writeIndex1: 15
+    writeIndex2: 9
+    writeIndex3: 51
+  - vindex0: 1
+    vindex1: 40
+    vindex2: 0
+    vindex3: 41
+    restAngle: 0.19889009
+    direction: 0.033813965
+    depth: 0.125
+    writeIndex0: 10
+    writeIndex1: 354
+    writeIndex2: 3
+    writeIndex3: 358
+  - vindex0: 0
+    vindex1: 2
+    vindex2: 1
+    vindex3: 41
+    restAngle: -0.13679618
+    direction: -0.02159985
+    depth: 0.25
+    writeIndex0: 4
+    writeIndex1: 16
+    writeIndex2: 11
+    writeIndex3: 359
+  - vindex0: 0
+    vindex1: 10
+    vindex2: 5
+    vindex3: 6
+    restAngle: -0.4928976
+    direction: -0.05896371
+    depth: 0.125
+    writeIndex0: 5
+    writeIndex1: 89
+    writeIndex2: 47
+    writeIndex3: 52
+  - vindex0: 0
+    vindex1: 36
+    vindex2: 40
+    vindex3: 41
+    restAngle: 0.6019262
+    direction: 0.07055879
+    depth: 0.125
+    writeIndex0: 6
+    writeIndex1: 313
+    writeIndex2: 355
+    writeIndex3: 360
+  - vindex0: 6
+    vindex1: 41
+    vindex2: 1
+    vindex3: 2
+    restAngle: 0.2962068
+    direction: 0.026439643
+    depth: 0.375
+    writeIndex0: 53
+    writeIndex1: 361
+    writeIndex2: 12
+    writeIndex3: 17
+  - vindex0: 1
+    vindex1: 7
+    vindex2: 2
+    vindex3: 6
+    restAngle: -0.07212603
+    direction: -0.012336023
+    depth: 0.375
+    writeIndex0: 13
+    writeIndex1: 61
+    writeIndex2: 18
+    writeIndex3: 54
+  - vindex0: 1
+    vindex1: 42
+    vindex2: 2
+    vindex3: 41
+    restAngle: 0.033659365
+    direction: 0.006434492
+    depth: 0.375
+    writeIndex0: 14
+    writeIndex1: 371
+    writeIndex2: 19
+    writeIndex3: 362
+  - vindex0: 6
+    vindex1: 3
+    vindex2: 2
+    vindex3: 7
+    restAngle: 0.13736756
+    direction: 0.022003584
+    depth: 0.5
+    writeIndex0: 55
+    writeIndex1: 27
+    writeIndex2: 20
+    writeIndex3: 62
+  - vindex0: 2
+    vindex1: 11
+    vindex2: 6
+    vindex3: 7
+    restAngle: -0.7956743
+    direction: -0.06864403
+    depth: 0.375
+    writeIndex0: 21
+    writeIndex1: 96
+    writeIndex2: 56
+    writeIndex3: 63
+  - vindex0: 41
+    vindex1: 3
+    vindex2: 2
+    vindex3: 42
+    restAngle: -0.10773499
+    direction: -0.02043751
+    depth: 0.5
+    writeIndex0: 363
+    writeIndex1: 28
+    writeIndex2: 22
+    writeIndex3: 372
+  - vindex0: 2
+    vindex1: 37
+    vindex2: 41
+    vindex3: 42
+    restAngle: 0.8025468
+    direction: 0.068352714
+    depth: 0.375
+    writeIndex0: 23
+    writeIndex1: 325
+    writeIndex2: 364
+    writeIndex3: 373
+  - vindex0: 7
+    vindex1: 42
+    vindex2: 2
+    vindex3: 3
+    restAngle: 0.2550976
+    direction: 0.022190979
+    depth: 0.625
+    writeIndex0: 64
+    writeIndex1: 374
+    writeIndex2: 24
+    writeIndex3: 29
+  - vindex0: 2
+    vindex1: 8
+    vindex2: 3
+    vindex3: 7
+    restAngle: 0.024127312
+    direction: 0.0045880526
+    depth: 0.625
+    writeIndex0: 25
+    writeIndex1: 73
+    writeIndex2: 30
+    writeIndex3: 65
+  - vindex0: 2
+    vindex1: 43
+    vindex2: 3
+    vindex3: 42
+    restAngle: -0.03458017
+    direction: -0.0074730176
+    depth: 0.625
+    writeIndex0: 26
+    writeIndex1: 383
+    writeIndex2: 31
+    writeIndex3: 375
+  - vindex0: 7
+    vindex1: 4
+    vindex2: 3
+    vindex3: 8
+    restAngle: 0.11283855
+    direction: 0.019897128
+    depth: 0.75
+    writeIndex0: 66
+    writeIndex1: 39
+    writeIndex2: 32
+    writeIndex3: 74
+  - vindex0: 3
+    vindex1: 12
+    vindex2: 7
+    vindex3: 8
+    restAngle: -0.8015273
+    direction: -0.061943572
+    depth: 0.625
+    writeIndex0: 33
+    writeIndex1: 106
+    writeIndex2: 67
+    writeIndex3: 75
+  - vindex0: 42
+    vindex1: 4
+    vindex2: 3
+    vindex3: 43
+    restAngle: -0.10055064
+    direction: -0.021290138
+    depth: 0.75
+    writeIndex0: 376
+    writeIndex1: 40
+    writeIndex2: 34
+    writeIndex3: 384
+  - vindex0: 3
+    vindex1: 38
+    vindex2: 42
+    vindex3: 43
+    restAngle: 0.81518877
+    direction: 0.062272694
+    depth: 0.625
+    writeIndex0: 35
+    writeIndex1: 338
+    writeIndex2: 377
+    writeIndex3: 385
+  - vindex0: 8
+    vindex1: 43
+    vindex2: 3
+    vindex3: 4
+    restAngle: 0.3040664
+    direction: 0.021567518
+    depth: 0.875
+    writeIndex0: 76
+    writeIndex1: 386
+    writeIndex2: 36
+    writeIndex3: 41
+  - vindex0: 3
+    vindex1: 9
+    vindex2: 4
+    vindex3: 8
+    restAngle: -0.0622731
+    direction: -0.012244768
+    depth: 0.875
+    writeIndex0: 37
+    writeIndex1: 84
+    writeIndex2: 42
+    writeIndex3: 77
+  - vindex0: 3
+    vindex1: 44
+    vindex2: 4
+    vindex3: 43
+    restAngle: 0.07799509
+    direction: 0.01784575
+    depth: 0.875
+    writeIndex0: 38
+    writeIndex1: 393
+    writeIndex2: 43
+    writeIndex3: 387
+  - vindex0: 4
+    vindex1: 13
+    vindex2: 8
+    vindex3: 9
+    restAngle: -0.748387
+    direction: -0.050712775
+    depth: 0.875
+    writeIndex0: 44
+    writeIndex1: 118
+    writeIndex2: 78
+    writeIndex3: 85
+  - vindex0: 4
+    vindex1: 39
+    vindex2: 43
+    vindex3: 44
+    restAngle: 0.8632393
+    direction: 0.05767348
+    depth: 0.875
+    writeIndex0: 45
+    writeIndex1: 349
+    writeIndex2: 388
+    writeIndex3: 394
+  - vindex0: 5
+    vindex1: 11
+    vindex2: 6
+    vindex3: 10
+    restAngle: 0.10204832
+    direction: 0.014423722
+    depth: 0.125
+    writeIndex0: 48
+    writeIndex1: 97
+    writeIndex2: 57
+    writeIndex3: 90
+  - vindex0: 10
+    vindex1: 7
+    vindex2: 6
+    vindex3: 11
+    restAngle: 0.15953857
+    direction: 0.018736975
+    depth: 0.25
+    writeIndex0: 91
+    writeIndex1: 68
+    writeIndex2: 58
+    writeIndex3: 98
+  - vindex0: 6
+    vindex1: 16
+    vindex2: 10
+    vindex3: 11
+    restAngle: -0.48720968
+    direction: -0.045132346
+    depth: 0.125
+    writeIndex0: 59
+    writeIndex1: 139
+    writeIndex2: 92
+    writeIndex3: 99
+  - vindex0: 6
+    vindex1: 12
+    vindex2: 7
+    vindex3: 11
+    restAngle: -0.082352616
+    direction: -0.01405289
+    depth: 0.375
+    writeIndex0: 60
+    writeIndex1: 107
+    writeIndex2: 69
+    writeIndex3: 100
+  - vindex0: 8
+    vindex1: 11
+    vindex2: 7
+    vindex3: 12
+    restAngle: -0.2414204
+    direction: -0.03659762
+    depth: 0.5
+    writeIndex0: 79
+    writeIndex1: 101
+    writeIndex2: 70
+    writeIndex3: 108
+  - vindex0: 7
+    vindex1: 13
+    vindex2: 8
+    vindex3: 12
+    restAngle: -0.18038318
+    direction: -0.03419029
+    depth: 0.625
+    writeIndex0: 71
+    writeIndex1: 119
+    writeIndex2: 80
+    writeIndex3: 109
+  - vindex0: 7
+    vindex1: 16
+    vindex2: 11
+    vindex3: 12
+    restAngle: -0.5581182
+    direction: -0.050891023
+    depth: 0.375
+    writeIndex0: 72
+    writeIndex1: 140
+    writeIndex2: 102
+    writeIndex3: 110
+  - vindex0: 9
+    vindex1: 12
+    vindex2: 8
+    vindex3: 13
+    restAngle: -0.210288
+    direction: -0.037925486
+    depth: 0.75
+    writeIndex0: 86
+    writeIndex1: 111
+    writeIndex2: 81
+    writeIndex3: 120
+  - vindex0: 8
+    vindex1: 14
+    vindex2: 9
+    vindex3: 13
+    restAngle: -0.082688145
+    direction: -0.01706136
+    depth: 0.875
+    writeIndex0: 82
+    writeIndex1: 129
+    writeIndex2: 87
+    writeIndex3: 121
+  - vindex0: 8
+    vindex1: 17
+    vindex2: 12
+    vindex3: 13
+    restAngle: -0.6792483
+    direction: -0.059770305
+    depth: 0.625
+    writeIndex0: 83
+    writeIndex1: 150
+    writeIndex2: 112
+    writeIndex3: 122
+  - vindex0: 9
+    vindex1: 18
+    vindex2: 13
+    vindex3: 14
+    restAngle: -0.8390299
+    direction: -0.053932704
+    depth: 0.875
+    writeIndex0: 88
+    writeIndex1: 162
+    writeIndex2: 123
+    writeIndex3: 130
+  - vindex0: 11
+    vindex1: 15
+    vindex2: 10
+    vindex3: 16
+    restAngle: -0.105459385
+    direction: -0.011923167
+    depth: 0.125
+    writeIndex0: 103
+    writeIndex1: 134
+    writeIndex2: 93
+    writeIndex3: 141
+  - vindex0: 10
+    vindex1: 12
+    vindex2: 11
+    vindex3: 16
+    restAngle: 0.09629922
+    direction: 0.007475622
+    depth: 0.25
+    writeIndex0: 94
+    writeIndex1: 113
+    writeIndex2: 104
+    writeIndex3: 142
+  - vindex0: 10
+    vindex1: 21
+    vindex2: 15
+    vindex3: 16
+    restAngle: -0.35659215
+    direction: -0.034773927
+    depth: 0.125
+    writeIndex0: 95
+    writeIndex1: 183
+    writeIndex2: 135
+    writeIndex3: 143
+  - vindex0: 11
+    vindex1: 17
+    vindex2: 12
+    vindex3: 16
+    restAngle: 0.03279093
+    direction: 0.0043639797
+    depth: 0.375
+    writeIndex0: 105
+    writeIndex1: 151
+    writeIndex2: 114
+    writeIndex3: 144
+  - vindex0: 16
+    vindex1: 13
+    vindex2: 12
+    vindex3: 17
+    restAngle: 0.048332214
+    direction: 0.004881076
+    depth: 0.5
+    writeIndex0: 145
+    writeIndex1: 124
+    writeIndex2: 115
+    writeIndex3: 152
+  - vindex0: 12
+    vindex1: 21
+    vindex2: 16
+    vindex3: 17
+    restAngle: -0.4718746
+    direction: -0.043709774
+    depth: 0.375
+    writeIndex0: 116
+    writeIndex1: 184
+    writeIndex2: 146
+    writeIndex3: 153
+  - vindex0: 12
+    vindex1: 18
+    vindex2: 13
+    vindex3: 17
+    restAngle: 0.13345926
+    direction: 0.019595684
+    depth: 0.625
+    writeIndex0: 117
+    writeIndex1: 163
+    writeIndex2: 125
+    writeIndex3: 154
+  - vindex0: 17
+    vindex1: 14
+    vindex2: 13
+    vindex3: 18
+    restAngle: 0.08579024
+    direction: 0.0098390775
+    depth: 0.75
+    writeIndex0: 155
+    writeIndex1: 131
+    writeIndex2: 126
+    writeIndex3: 164
+  - vindex0: 13
+    vindex1: 22
+    vindex2: 17
+    vindex3: 18
+    restAngle: -0.45231503
+    direction: -0.036739312
+    depth: 0.625
+    writeIndex0: 127
+    writeIndex1: 194
+    writeIndex2: 156
+    writeIndex3: 165
+  - vindex0: 13
+    vindex1: 19
+    vindex2: 14
+    vindex3: 18
+    restAngle: 0.07912974
+    direction: 0.011701486
+    depth: 0.875
+    writeIndex0: 128
+    writeIndex1: 173
+    writeIndex2: 132
+    writeIndex3: 166
+  - vindex0: 14
+    vindex1: 23
+    vindex2: 18
+    vindex3: 19
+    restAngle: -0.45278683
+    direction: -0.031875845
+    depth: 0.875
+    writeIndex0: 133
+    writeIndex1: 206
+    writeIndex2: 167
+    writeIndex3: 174
+  - vindex0: 16
+    vindex1: 20
+    vindex2: 15
+    vindex3: 21
+    restAngle: -0.11670618
+    direction: -0.013858501
+    depth: 0.125
+    writeIndex0: 147
+    writeIndex1: 178
+    writeIndex2: 136
+    writeIndex3: 185
+  - vindex0: 15
+    vindex1: 17
+    vindex2: 16
+    vindex3: 21
+    restAngle: 0.16812268
+    direction: 0.015213032
+    depth: 0.25
+    writeIndex0: 137
+    writeIndex1: 157
+    writeIndex2: 148
+    writeIndex3: 186
+  - vindex0: 15
+    vindex1: 26
+    vindex2: 20
+    vindex3: 21
+    restAngle: -0.39762384
+    direction: -0.038207587
+    depth: 0.125
+    writeIndex0: 138
+    writeIndex1: 225
+    writeIndex2: 179
+    writeIndex3: 187
+  - vindex0: 16
+    vindex1: 22
+    vindex2: 17
+    vindex3: 21
+    restAngle: 0.032135334
+    direction: 0.004610892
+    depth: 0.375
+    writeIndex0: 149
+    writeIndex1: 195
+    writeIndex2: 158
+    writeIndex3: 188
+  - vindex0: 18
+    vindex1: 21
+    vindex2: 17
+    vindex3: 22
+    restAngle: -0.154123
+    direction: -0.018833583
+    depth: 0.5
+    writeIndex0: 168
+    writeIndex1: 189
+    writeIndex2: 159
+    writeIndex3: 196
+  - vindex0: 17
+    vindex1: 23
+    vindex2: 18
+    vindex3: 22
+    restAngle: 0.06512615
+    direction: 0.01058765
+    depth: 0.625
+    writeIndex0: 160
+    writeIndex1: 207
+    writeIndex2: 169
+    writeIndex3: 197
+  - vindex0: 17
+    vindex1: 26
+    vindex2: 21
+    vindex3: 22
+    restAngle: -0.58399546
+    direction: -0.050024237
+    depth: 0.375
+    writeIndex0: 161
+    writeIndex1: 226
+    writeIndex2: 190
+    writeIndex3: 198
+  - vindex0: 19
+    vindex1: 22
+    vindex2: 18
+    vindex3: 23
+    restAngle: -0.07431692
+    direction: -0.010292965
+    depth: 0.75
+    writeIndex0: 175
+    writeIndex1: 199
+    writeIndex2: 170
+    writeIndex3: 208
+  - vindex0: 18
+    vindex1: 24
+    vindex2: 19
+    vindex3: 23
+    restAngle: 0.06319249
+    direction: 0.010021504
+    depth: 0.875
+    writeIndex0: 171
+    writeIndex1: 217
+    writeIndex2: 176
+    writeIndex3: 209
+  - vindex0: 18
+    vindex1: 27
+    vindex2: 22
+    vindex3: 23
+    restAngle: -0.6450208
+    direction: -0.05646399
+    depth: 0.625
+    writeIndex0: 172
+    writeIndex1: 237
+    writeIndex2: 200
+    writeIndex3: 210
+  - vindex0: 19
+    vindex1: 28
+    vindex2: 23
+    vindex3: 24
+    restAngle: -0.6006467
+    direction: -0.042399425
+    depth: 0.875
+    writeIndex0: 177
+    writeIndex1: 249
+    writeIndex2: 211
+    writeIndex3: 218
+  - vindex0: 21
+    vindex1: 25
+    vindex2: 20
+    vindex3: 26
+    restAngle: -0.2485833
+    direction: -0.034934115
+    depth: 0.125
+    writeIndex0: 191
+    writeIndex1: 222
+    writeIndex2: 180
+    writeIndex3: 227
+  - vindex0: 20
+    vindex1: 22
+    vindex2: 21
+    vindex3: 26
+    restAngle: 0.21039619
+    direction: 0.031733207
+    depth: 0.25
+    writeIndex0: 181
+    writeIndex1: 201
+    writeIndex2: 192
+    writeIndex3: 228
+  - vindex0: 20
+    vindex1: 30
+    vindex2: 25
+    vindex3: 26
+    restAngle: -0.21168685
+    direction: -0.02107569
+    depth: 0.125
+    writeIndex0: 182
+    writeIndex1: 265
+    writeIndex2: 223
+    writeIndex3: 229
+  - vindex0: 21
+    vindex1: 27
+    vindex2: 22
+    vindex3: 26
+    restAngle: 0.055740837
+    direction: 0.011004724
+    depth: 0.375
+    writeIndex0: 193
+    writeIndex1: 238
+    writeIndex2: 202
+    writeIndex3: 230
+  - vindex0: 23
+    vindex1: 26
+    vindex2: 22
+    vindex3: 27
+    restAngle: -0.21862063
+    direction: -0.03948018
+    depth: 0.5
+    writeIndex0: 212
+    writeIndex1: 231
+    writeIndex2: 203
+    writeIndex3: 239
+  - vindex0: 22
+    vindex1: 28
+    vindex2: 23
+    vindex3: 27
+    restAngle: -0.07736064
+    direction: -0.0171088
+    depth: 0.625
+    writeIndex0: 204
+    writeIndex1: 250
+    writeIndex2: 213
+    writeIndex3: 240
+  - vindex0: 22
+    vindex1: 31
+    vindex2: 26
+    vindex3: 27
+    restAngle: -0.5016295
+    direction: -0.04772164
+    depth: 0.375
+    writeIndex0: 205
+    writeIndex1: 270
+    writeIndex2: 232
+    writeIndex3: 241
+  - vindex0: 24
+    vindex1: 27
+    vindex2: 23
+    vindex3: 28
+    restAngle: -0.14938569
+    direction: -0.031262293
+    depth: 0.75
+    writeIndex0: 219
+    writeIndex1: 242
+    writeIndex2: 214
+    writeIndex3: 251
+  - vindex0: 23
+    vindex1: 29
+    vindex2: 24
+    vindex3: 28
+    restAngle: -0.11596415
+    direction: -0.026273318
+    depth: 0.875
+    writeIndex0: 215
+    writeIndex1: 260
+    writeIndex2: 220
+    writeIndex3: 252
+  - vindex0: 23
+    vindex1: 32
+    vindex2: 27
+    vindex3: 28
+    restAngle: -0.555278
+    direction: -0.05334564
+    depth: 0.625
+    writeIndex0: 216
+    writeIndex1: 281
+    writeIndex2: 243
+    writeIndex3: 253
+  - vindex0: 24
+    vindex1: 33
+    vindex2: 28
+    vindex3: 29
+    restAngle: -0.64042753
+    direction: -0.044010524
+    depth: 0.875
+    writeIndex0: 221
+    writeIndex1: 294
+    writeIndex2: 254
+    writeIndex3: 261
+  - vindex0: 25
+    vindex1: 31
+    vindex2: 26
+    vindex3: 30
+    restAngle: 0.07477629
+    direction: 0.010800725
+    depth: 0.125
+    writeIndex0: 224
+    writeIndex1: 271
+    writeIndex2: 233
+    writeIndex3: 266
+  - vindex0: 30
+    vindex1: 27
+    vindex2: 26
+    vindex3: 31
+    restAngle: 0.38853514
+    direction: 0.057636134
+    depth: 0.25
+    writeIndex0: 267
+    writeIndex1: 244
+    writeIndex2: 234
+    writeIndex3: 272
+  - vindex0: 26
+    vindex1: 36
+    vindex2: 30
+    vindex3: 31
+    restAngle: -0.60328656
+    direction: -0.056897845
+    depth: 0.125
+    writeIndex0: 235
+    writeIndex1: 314
+    writeIndex2: 268
+    writeIndex3: 273
+  - vindex0: 26
+    vindex1: 32
+    vindex2: 27
+    vindex3: 31
+    restAngle: -0.019734979
+    direction: -0.0037412948
+    depth: 0.375
+    writeIndex0: 236
+    writeIndex1: 282
+    writeIndex2: 245
+    writeIndex3: 274
+  - vindex0: 31
+    vindex1: 28
+    vindex2: 27
+    vindex3: 32
+    restAngle: 0.15690947
+    direction: 0.02904911
+    depth: 0.5
+    writeIndex0: 275
+    writeIndex1: 255
+    writeIndex2: 246
+    writeIndex3: 283
+  - vindex0: 27
+    vindex1: 36
+    vindex2: 31
+    vindex3: 32
+    restAngle: -0.7982269
+    direction: -0.0668087
+    depth: 0.375
+    writeIndex0: 247
+    writeIndex1: 315
+    writeIndex2: 276
+    writeIndex3: 284
+  - vindex0: 27
+    vindex1: 33
+    vindex2: 28
+    vindex3: 32
+    restAngle: 0.08986337
+    direction: 0.019755693
+    depth: 0.625
+    writeIndex0: 248
+    writeIndex1: 295
+    writeIndex2: 256
+    writeIndex3: 285
+  - vindex0: 32
+    vindex1: 29
+    vindex2: 28
+    vindex3: 33
+    restAngle: -0.03767907
+    direction: -0.007897052
+    depth: 0.75
+    writeIndex0: 286
+    writeIndex1: 262
+    writeIndex2: 257
+    writeIndex3: 296
+  - vindex0: 28
+    vindex1: 37
+    vindex2: 32
+    vindex3: 33
+    restAngle: -0.77135396
+    direction: -0.06161776
+    depth: 0.625
+    writeIndex0: 258
+    writeIndex1: 326
+    writeIndex2: 287
+    writeIndex3: 297
+  - vindex0: 28
+    vindex1: 34
+    vindex2: 29
+    vindex3: 33
+    restAngle: 0.121896
+    direction: 0.028302265
+    depth: 0.875
+    writeIndex0: 259
+    writeIndex1: 305
+    writeIndex2: 263
+    writeIndex3: 298
+  - vindex0: 29
+    vindex1: 38
+    vindex2: 33
+    vindex3: 34
+    restAngle: -0.6846739
+    direction: -0.049614344
+    depth: 0.875
+    writeIndex0: 264
+    writeIndex1: 339
+    writeIndex2: 299
+    writeIndex3: 306
+  - vindex0: 30
+    vindex1: 32
+    vindex2: 31
+    vindex3: 36
+    restAngle: 0.37123954
+    direction: 0.046225056
+    depth: 0.25
+    writeIndex0: 269
+    writeIndex1: 288
+    writeIndex2: 277
+    writeIndex3: 316
+  - vindex0: 32
+    vindex1: 35
+    vindex2: 31
+    vindex3: 36
+    restAngle: -0.21041274
+    direction: -0.026613846
+    depth: 0.25
+    writeIndex0: 289
+    writeIndex1: 310
+    writeIndex2: 278
+    writeIndex3: 317
+  - vindex0: 31
+    vindex1: 37
+    vindex2: 32
+    vindex3: 36
+    restAngle: -0.0743779
+    direction: -0.012330773
+    depth: 0.375
+    writeIndex0: 279
+    writeIndex1: 327
+    writeIndex2: 290
+    writeIndex3: 318
+  - vindex0: 31
+    vindex1: 41
+    vindex2: 35
+    vindex3: 36
+    restAngle: -0.6429872
+    direction: -0.06304149
+    depth: 0.125
+    writeIndex0: 280
+    writeIndex1: 365
+    writeIndex2: 311
+    writeIndex3: 319
+  - vindex0: 36
+    vindex1: 33
+    vindex2: 32
+    vindex3: 37
+    restAngle: 0.2696101
+    direction: 0.04497381
+    depth: 0.5
+    writeIndex0: 320
+    writeIndex1: 300
+    writeIndex2: 291
+    writeIndex3: 328
+  - vindex0: 32
+    vindex1: 41
+    vindex2: 36
+    vindex3: 37
+    restAngle: -0.7453641
+    direction: -0.065514356
+    depth: 0.375
+    writeIndex0: 292
+    writeIndex1: 366
+    writeIndex2: 321
+    writeIndex3: 329
+  - vindex0: 32
+    vindex1: 38
+    vindex2: 33
+    vindex3: 37
+    restAngle: -0.122555494
+    direction: -0.02322345
+    depth: 0.625
+    writeIndex0: 293
+    writeIndex1: 340
+    writeIndex2: 301
+    writeIndex3: 330
+  - vindex0: 37
+    vindex1: 34
+    vindex2: 33
+    vindex3: 38
+    restAngle: 0.1836784
+    direction: 0.034725443
+    depth: 0.75
+    writeIndex0: 331
+    writeIndex1: 307
+    writeIndex2: 302
+    writeIndex3: 341
+  - vindex0: 33
+    vindex1: 42
+    vindex2: 37
+    vindex3: 38
+    restAngle: -0.9121518
+    direction: -0.06904073
+    depth: 0.625
+    writeIndex0: 303
+    writeIndex1: 378
+    writeIndex2: 332
+    writeIndex3: 342
+  - vindex0: 33
+    vindex1: 39
+    vindex2: 34
+    vindex3: 38
+    restAngle: 0.012812238
+    direction: 0.0026151603
+    depth: 0.875
+    writeIndex0: 304
+    writeIndex1: 350
+    writeIndex2: 308
+    writeIndex3: 343
+  - vindex0: 34
+    vindex1: 43
+    vindex2: 38
+    vindex3: 39
+    restAngle: -0.98514706
+    direction: -0.053949986
+    depth: 0.875
+    writeIndex0: 309
+    writeIndex1: 389
+    writeIndex2: 344
+    writeIndex3: 351
+  - vindex0: 35
+    vindex1: 37
+    vindex2: 36
+    vindex3: 41
+    restAngle: 0.124386355
+    direction: 0.016355848
+    depth: 0.25
+    writeIndex0: 312
+    writeIndex1: 333
+    writeIndex2: 322
+    writeIndex3: 367
+  - vindex0: 37
+    vindex1: 40
+    vindex2: 36
+    vindex3: 41
+    restAngle: -0.10902552
+    direction: -0.014344599
+    depth: 0.25
+    writeIndex0: 334
+    writeIndex1: 356
+    writeIndex2: 323
+    writeIndex3: 368
+  - vindex0: 36
+    vindex1: 42
+    vindex2: 37
+    vindex3: 41
+    restAngle: 0.0995505
+    direction: 0.016831132
+    depth: 0.375
+    writeIndex0: 324
+    writeIndex1: 379
+    writeIndex2: 335
+    writeIndex3: 369
+  - vindex0: 41
+    vindex1: 38
+    vindex2: 37
+    vindex3: 42
+    restAngle: 0.0701078
+    direction: 0.011707999
+    depth: 0.5
+    writeIndex0: 370
+    writeIndex1: 345
+    writeIndex2: 336
+    writeIndex3: 380
+  - vindex0: 37
+    vindex1: 43
+    vindex2: 38
+    vindex3: 42
+    restAngle: 0.08052303
+    direction: 0.015513466
+    depth: 0.625
+    writeIndex0: 337
+    writeIndex1: 390
+    writeIndex2: 346
+    writeIndex3: 381
+  - vindex0: 42
+    vindex1: 39
+    vindex2: 38
+    vindex3: 43
+    restAngle: 0.07190651
+    direction: 0.013643483
+    depth: 0.75
+    writeIndex0: 382
+    writeIndex1: 352
+    writeIndex2: 347
+    writeIndex3: 391
+  - vindex0: 38
+    vindex1: 44
+    vindex2: 39
+    vindex3: 43
+    restAngle: -0.04495882
+    direction: -0.008850999
+    depth: 0.875
+    writeIndex0: 348
+    writeIndex1: 395
+    writeIndex2: 353
+    writeIndex3: 392
+  triangleBendReferenceList:
+  - startIndex: 0
+    count: 7
+  - startIndex: 7
+    count: 8
+  - startIndex: 15
+    count: 12
+  - startIndex: 27
+    count: 12
+  - startIndex: 39
+    count: 7
+  - startIndex: 46
+    count: 3
+  - startIndex: 49
+    count: 12
+  - startIndex: 61
+    count: 12
+  - startIndex: 73
+    count: 11
+  - startIndex: 84
+    count: 5
+  - startIndex: 89
+    count: 7
+  - startIndex: 96
+    count: 10
+  - startIndex: 106
+    count: 12
+  - startIndex: 118
+    count: 11
+  - startIndex: 129
+    count: 5
+  - startIndex: 134
+    count: 5
+  - startIndex: 139
+    count: 11
+  - startIndex: 150
+    count: 12
+  - startIndex: 162
+    count: 11
+  - startIndex: 173
+    count: 5
+  - startIndex: 178
+    count: 5
+  - startIndex: 183
+    count: 11
+  - startIndex: 194
+    count: 12
+  - startIndex: 206
+    count: 11
+  - startIndex: 217
+    count: 5
+  - startIndex: 222
+    count: 3
+  - startIndex: 225
+    count: 12
+  - startIndex: 237
+    count: 12
+  - startIndex: 249
+    count: 11
+  - startIndex: 260
+    count: 5
+  - startIndex: 265
+    count: 5
+  - startIndex: 270
+    count: 11
+  - startIndex: 281
+    count: 13
+  - startIndex: 294
+    count: 11
+  - startIndex: 305
+    count: 5
+  - startIndex: 310
+    count: 3
+  - startIndex: 313
+    count: 12
+  - startIndex: 325
+    count: 13
+  - startIndex: 338
+    count: 11
+  - startIndex: 349
+    count: 5
+  - startIndex: 354
+    count: 3
+  - startIndex: 357
+    count: 14
+  - startIndex: 371
+    count: 12
+  - startIndex: 383
+    count: 10
+  - startIndex: 393
+    count: 3
+  triangleBendWriteBufferCount: 396
+  volumeDataList: []
+  volumeReferenceList: []
+  volumeWriteBufferCount: 0
+  lineRotationDataList:
+  - vertexIndex: 0
+    childCount: 1
+    childStartDataIndex: 1
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 1
+    childCount: 1
+    childStartDataIndex: 2
+    localPos:
+      x: 2.622021E-08
+      y: 0.09258087
+      z: 8.632914E-08
+    localRot:
+      value:
+        x: -0.06986705
+        y: 0.00060232304
+        z: -0.0048311674
+        w: 0.9975444
+  - vertexIndex: 2
+    childCount: 1
+    childStartDataIndex: 3
+    localPos:
+      x: -6.620876E-08
+      y: 0.090579554
+      z: -1.3096821E-08
+    localRot:
+      value:
+        x: -0.040434036
+        y: -3.7206903E-06
+        z: 1.2298565E-05
+        w: 0.9991822
+  - vertexIndex: 3
+    childCount: 1
+    childStartDataIndex: 4
+    localPos:
+      x: 2.0214108E-09
+      y: 0.087940864
+      z: -1.0724235E-07
+    localRot:
+      value:
+        x: 0.00034492827
+        y: -0.9977841
+        z: 0.06653521
+        w: -0.00010372137
+  - vertexIndex: 4
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: 4.919734E-09
+      y: 0.07203529
+      z: -1.7877769E-08
+    localRot:
+      value:
+        x: 0.07284854
+        y: -2.5159054E-08
+        z: -1.5485217E-08
+        w: 0.99734306
+  - vertexIndex: 5
+    childCount: 1
+    childStartDataIndex: 6
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 6
+    childCount: 1
+    childStartDataIndex: 7
+    localPos:
+      x: -3.8892345E-08
+      y: 0.124611445
+      z: -1.4410041E-07
+    localRot:
+      value:
+        x: -0.095305234
+        y: -0.011838958
+        z: -0.04004027
+        w: 0.9945721
+  - vertexIndex: 7
+    childCount: 1
+    childStartDataIndex: 8
+    localPos:
+      x: 5.7659744E-09
+      y: 0.096094936
+      z: 1.2728766E-07
+    localRot:
+      value:
+        x: -0.08975296
+        y: 0.0020742342
+        z: -0.02209035
+        w: 0.9957169
+  - vertexIndex: 8
+    childCount: 1
+    childStartDataIndex: 9
+    localPos:
+      x: -3.740163E-08
+      y: 0.08622204
+      z: 2.5818593E-08
+    localRot:
+      value:
+        x: -0.016748616
+        y: -0.9789454
+        z: 0.02870526
+        w: 0.20139895
+  - vertexIndex: 9
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: -4.5114632E-08
+      y: 0.07452748
+      z: -2.5743496E-08
+    localRot:
+      value:
+        x: 0.09551757
+        y: -1.6710084E-07
+        z: 0.0691535
+        w: 0.9930228
+  - vertexIndex: 10
+    childCount: 1
+    childStartDataIndex: 11
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 11
+    childCount: 1
+    childStartDataIndex: 12
+    localPos:
+      x: 4.0473108E-08
+      y: 0.09640329
+      z: -3.224205E-08
+    localRot:
+      value:
+        x: -0.04740454
+        y: -0.0054937922
+        z: -0.003234593
+        w: 0.9988555
+  - vertexIndex: 12
+    childCount: 1
+    childStartDataIndex: 13
+    localPos:
+      x: -7.140369E-08
+      y: 0.09609495
+      z: -5.240018E-08
+    localRot:
+      value:
+        x: -0.034981452
+        y: 2.5248331E-05
+        z: 0.008658101
+        w: 0.9993505
+  - vertexIndex: 13
+    childCount: 1
+    childStartDataIndex: 14
+    localPos:
+      x: 3.700538E-08
+      y: 0.095144086
+      z: 6.671257E-08
+    localRot:
+      value:
+        x: -0.06760173
+        y: -0.76307994
+        z: 0.05528103
+        w: 0.64037734
+  - vertexIndex: 14
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: -8.8389E-08
+      y: 0.07249065
+      z: 7.6229165E-09
+    localRot:
+      value:
+        x: 0.045337398
+        y: -0.0012110115
+        z: 0.16629536
+        w: 0.98503244
+  - vertexIndex: 15
+    childCount: 1
+    childStartDataIndex: 16
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 16
+    childCount: 1
+    childStartDataIndex: 17
+    localPos:
+      x: -6.6265436E-08
+      y: 0.09961512
+      z: 6.037136E-08
+    localRot:
+      value:
+        x: -0.08513998
+        y: 0.0063926964
+        z: 0.007771837
+        w: 0.9963182
+  - vertexIndex: 17
+    childCount: 1
+    childStartDataIndex: 18
+    localPos:
+      x: 5.833936E-09
+      y: 0.09615913
+      z: -3.4512546E-08
+    localRot:
+      value:
+        x: -0.08342522
+        y: 0.0012370948
+        z: -0.017586984
+        w: 0.9963581
+  - vertexIndex: 18
+    childCount: 1
+    childStartDataIndex: 19
+    localPos:
+      x: 6.9203634E-09
+      y: 0.08406221
+      z: 5.2357684E-08
+    localRot:
+      value:
+        x: -0.04238269
+        y: -0.5945258
+        z: 0.06515651
+        w: 0.8003108
+  - vertexIndex: 19
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: 1.08225E-07
+      y: 0.072863534
+      z: -2.4358531E-08
+    localRot:
+      value:
+        x: -0.03281976
+        y: -4.8586212E-08
+        z: 0.12500127
+        w: 0.99161357
+  - vertexIndex: 20
+    childCount: 1
+    childStartDataIndex: 21
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 21
+    childCount: 1
+    childStartDataIndex: 22
+    localPos:
+      x: -6.8613E-08
+      y: 0.0986693
+      z: 1.2426893E-08
+    localRot:
+      value:
+        x: -0.117451385
+        y: 0.020313568
+        z: 0.04047699
+        w: 0.9920455
+  - vertexIndex: 22
+    childCount: 1
+    childStartDataIndex: 23
+    localPos:
+      x: -6.076941E-08
+      y: 0.09072859
+      z: 4.154333E-08
+    localRot:
+      value:
+        x: -0.11689836
+        y: 0.0029331835
+        z: -0.05010408
+        w: 0.99187493
+  - vertexIndex: 23
+    childCount: 1
+    childStartDataIndex: 24
+    localPos:
+      x: 1.3277507E-08
+      y: 0.09391647
+      z: 2.1399714E-08
+    localRot:
+      value:
+        x: -0.045955673
+        y: -0.3742018
+        z: 0.051693402
+        w: 0.92476434
+  - vertexIndex: 24
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: 7.0742054E-08
+      y: 0.075019866
+      z: 1.5970178E-08
+    localRot:
+      value:
+        x: -0.06992127
+        y: 0.00022130285
+        z: 0.06301018
+        w: 0.9955605
+  - vertexIndex: 25
+    childCount: 1
+    childStartDataIndex: 26
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 26
+    childCount: 1
+    childStartDataIndex: 27
+    localPos:
+      x: -5.996155E-08
+      y: 0.100308314
+      z: 7.156136E-08
+    localRot:
+      value:
+        x: -0.21988559
+        y: -0.0060098036
+        z: 0.00010962816
+        w: 0.97550714
+  - vertexIndex: 27
+    childCount: 1
+    childStartDataIndex: 28
+    localPos:
+      x: 8.540595E-08
+      y: 0.099243335
+      z: 6.551173E-08
+    localRot:
+      value:
+        x: -0.07349198
+        y: -4.9258797E-06
+        z: 0.005074063
+        w: 0.997283
+  - vertexIndex: 28
+    childCount: 1
+    childStartDataIndex: 29
+    localPos:
+      x: -9.889077E-10
+      y: 0.10119067
+      z: 1.9456925E-08
+    localRot:
+      value:
+        x: -0.01927879
+        y: 0.00032534104
+        z: -0.0025323397
+        w: 0.99981093
+  - vertexIndex: 29
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: 1.2191687E-10
+      y: 0.07365307
+      z: 6.479001E-08
+    localRot:
+      value:
+        x: -0.0073663592
+        y: 2.3365362E-10
+        z: 1.3526696E-09
+        w: 0.9999729
+  - vertexIndex: 30
+    childCount: 1
+    childStartDataIndex: 31
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 31
+    childCount: 1
+    childStartDataIndex: 32
+    localPos:
+      x: 2.3818268E-08
+      y: 0.10028672
+      z: -6.451707E-08
+    localRot:
+      value:
+        x: -0.18870178
+        y: -0.021991067
+        z: -0.016261665
+        w: 0.9816535
+  - vertexIndex: 32
+    childCount: 1
+    childStartDataIndex: 33
+    localPos:
+      x: 2.7656782E-08
+      y: 0.09329265
+      z: 8.394119E-10
+    localRot:
+      value:
+        x: -0.12064366
+        y: -0.00057437585
+        z: 0.02436572
+        w: 0.99239665
+  - vertexIndex: 33
+    childCount: 1
+    childStartDataIndex: 34
+    localPos:
+      x: 8.294489E-08
+      y: 0.08839074
+      z: -1.5351276E-10
+    localRot:
+      value:
+        x: -0.04071167
+        y: 0.375074
+        z: -0.008860106
+        w: 0.9260581
+  - vertexIndex: 34
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: -8.8193865E-08
+      y: 0.07845152
+      z: -6.1187095E-08
+    localRot:
+      value:
+        x: -0.058241803
+        y: 0.0008486769
+        z: -0.08820334
+        w: 0.994398
+  - vertexIndex: 35
+    childCount: 1
+    childStartDataIndex: 36
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 36
+    childCount: 1
+    childStartDataIndex: 37
+    localPos:
+      x: -4.38118E-08
+      y: 0.10514122
+      z: 2.4430628E-08
+    localRot:
+      value:
+        x: -0.06617676
+        y: 0.00020162083
+        z: -0.0033692922
+        w: 0.99780226
+  - vertexIndex: 37
+    childCount: 1
+    childStartDataIndex: 38
+    localPos:
+      x: 5.8373022E-08
+      y: 0.09659474
+      z: -2.2391626E-09
+    localRot:
+      value:
+        x: -0.07797732
+        y: 1.455202E-05
+        z: -0.009876747
+        w: 0.9969063
+  - vertexIndex: 38
+    childCount: 1
+    childStartDataIndex: 39
+    localPos:
+      x: 1.5715534E-08
+      y: 0.08730244
+      z: -5.4995112E-08
+    localRot:
+      value:
+        x: -0.084508725
+        y: 0.68904376
+        z: -0.049483124
+        w: 0.7180728
+  - vertexIndex: 39
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: -3.7689514E-08
+      y: 0.06473843
+      z: -1.2483133E-08
+    localRot:
+      value:
+        x: 0.020190896
+        y: 0.0035406437
+        z: -0.12426535
+        w: 0.99203724
+  - vertexIndex: 40
+    childCount: 1
+    childStartDataIndex: 41
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 41
+    childCount: 1
+    childStartDataIndex: 42
+    localPos:
+      x: -6.778298E-08
+      y: 0.12461128
+      z: 3.474189E-08
+    localRot:
+      value:
+        x: -0.11433216
+        y: 0.007436661
+        z: -0.033868045
+        w: 0.9928373
+  - vertexIndex: 42
+    childCount: 1
+    childStartDataIndex: 43
+    localPos:
+      x: 7.665319E-08
+      y: 0.09504943
+      z: 2.1365711E-08
+    localRot:
+      value:
+        x: -0.07771587
+        y: -0.0027244498
+        z: -0.0032521188
+        w: 0.99696654
+  - vertexIndex: 43
+    childCount: 1
+    childStartDataIndex: 44
+    localPos:
+      x: -4.7025058E-08
+      y: 0.08555647
+      z: 2.3356318E-08
+    localRot:
+      value:
+        x: 0.005632905
+        y: -0.9314862
+        z: 0.012294608
+        w: -0.36352524
+  - vertexIndex: 44
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: 5.798685E-08
+      y: 0.075890936
+      z: 1.8103019E-09
+    localRot:
+      value:
+        x: 0.08660471
+        y: -9.053591E-09
+        z: -0.11326121
+        w: 0.9897836
+  lineRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 5
+  - startIndex: 5
+    dataLength: 5
+  - startIndex: 10
+    dataLength: 5
+  - startIndex: 15
+    dataLength: 5
+  - startIndex: 20
+    dataLength: 5
+  - startIndex: 25
+    dataLength: 5
+  - startIndex: 30
+    dataLength: 5
+  - startIndex: 35
+    dataLength: 5
+  - startIndex: 40
+    dataLength: 5
+  triangleRotationDataList:
+  - targetIndex: 1
+    triangleCount: 4
+    triangleStartIndex: 0
+    localRot:
+      value:
+        x: -0.04018082
+        y: -0.02466011
+        z: 0.0009920853
+        w: 0.9988876
+  - targetIndex: 0
+    triangleCount: 4
+    triangleStartIndex: 12
+    localRot:
+      value:
+        x: 0.023665778
+        y: -0.035027143
+        z: 0.9990789
+        w: 0.0073731537
+  - targetIndex: 1
+    triangleCount: 6
+    triangleStartIndex: 24
+    localRot:
+      value:
+        x: 0.027786547
+        y: -0.033999674
+        z: 0.9990347
+        w: 0.0012912534
+  - targetIndex: 2
+    triangleCount: 6
+    triangleStartIndex: 42
+    localRot:
+      value:
+        x: 0.9987406
+        y: -0.0024380372
+        z: -0.029932288
+        w: -0.040191498
+  - targetIndex: 3
+    triangleCount: 4
+    triangleStartIndex: 60
+    localRot:
+      value:
+        x: 0.99560267
+        y: -0.001681111
+        z: -0.029566323
+        w: -0.08887268
+  - targetIndex: 6
+    triangleCount: 2
+    triangleStartIndex: 72
+    localRot:
+      value:
+        x: 5.166462E-07
+        y: 0.07367989
+        z: -1.7925193E-07
+        w: 0.99728197
+  - targetIndex: 5
+    triangleCount: 7
+    triangleStartIndex: 78
+    localRot:
+      value:
+        x: -0.027841423
+        y: -0.040579524
+        z: 0.9981788
+        w: 0.034889553
+  - targetIndex: 6
+    triangleCount: 6
+    triangleStartIndex: 99
+    localRot:
+      value:
+        x: -0.045325395
+        y: -0.05308891
+        z: 0.9974236
+        w: 0.016534982
+  - targetIndex: 7
+    triangleCount: 6
+    triangleStartIndex: 117
+    localRot:
+      value:
+        x: 0.9725676
+        y: -0.013994626
+        z: 0.23121817
+        w: -0.021322634
+  - targetIndex: 8
+    triangleCount: 3
+    triangleStartIndex: 135
+    localRot:
+      value:
+        x: 0.951722
+        y: -0.04314186
+        z: 0.27783057
+        w: -0.12318332
+  - targetIndex: 11
+    triangleCount: 4
+    triangleStartIndex: 144
+    localRot:
+      value:
+        x: -0.020168912
+        y: -0.064460084
+        z: 0.0013033634
+        w: 0.9977157
+  - targetIndex: 10
+    triangleCount: 5
+    triangleStartIndex: 156
+    localRot:
+      value:
+        x: 0.10292567
+        y: -0.012333391
+        z: 0.99454683
+        w: 0.011440779
+  - targetIndex: 11
+    triangleCount: 6
+    triangleStartIndex: 171
+    localRot:
+      value:
+        x: 0.0861695
+        y: -0.0012975143
+        z: 0.9962762
+        w: -0.0026482923
+  - targetIndex: 12
+    triangleCount: 6
+    triangleStartIndex: 189
+    localRot:
+      value:
+        x: 0.8161704
+        y: -0.04104002
+        z: 0.5763272
+        w: -0.0053485082
+  - targetIndex: 13
+    triangleCount: 3
+    triangleStartIndex: 207
+    localRot:
+      value:
+        x: 0.75378597
+        y: -0.090630345
+        z: 0.6369176
+        w: -0.13389853
+  - targetIndex: 16
+    triangleCount: 3
+    triangleStartIndex: 216
+    localRot:
+      value:
+        x: -0.014721931
+        y: 0.034298584
+        z: -0.0005056207
+        w: 0.99930304
+  - targetIndex: 15
+    triangleCount: 6
+    triangleStartIndex: 225
+    localRot:
+      value:
+        x: 0.052840326
+        y: -0.041061964
+        z: 0.9977584
+        w: -0.0003501555
+  - targetIndex: 16
+    triangleCount: 6
+    triangleStartIndex: 243
+    localRot:
+      value:
+        x: -0.00018170927
+        y: -0.0495056
+        z: 0.99861646
+        w: 0.017729754
+  - targetIndex: 17
+    triangleCount: 6
+    triangleStartIndex: 261
+    localRot:
+      value:
+        x: 0.56906664
+        y: -0.011537468
+        z: 0.8208809
+        w: -0.046740573
+  - targetIndex: 18
+    triangleCount: 3
+    triangleStartIndex: 279
+    localRot:
+      value:
+        x: 0.51976883
+        y: -0.08541923
+        z: 0.8458206
+        w: -0.084447965
+  - targetIndex: 21
+    triangleCount: 3
+    triangleStartIndex: 288
+    localRot:
+      value:
+        x: -0.04078302
+        y: 0.077679746
+        z: -0.0031806186
+        w: 0.9961388
+  - targetIndex: 20
+    triangleCount: 6
+    triangleStartIndex: 297
+    localRot:
+      value:
+        x: 0.0014458896
+        y: -0.057177365
+        z: 0.99763376
+        w: -0.03815348
+  - targetIndex: 21
+    triangleCount: 6
+    triangleStartIndex: 315
+    localRot:
+      value:
+        x: -0.06003153
+        y: -0.061951496
+        z: 0.9954618
+        w: 0.04017599
+  - targetIndex: 22
+    triangleCount: 6
+    triangleStartIndex: 333
+    localRot:
+      value:
+        x: 0.30825004
+        y: -0.023126012
+        z: 0.9497777
+        w: -0.04867799
+  - targetIndex: 23
+    triangleCount: 3
+    triangleStartIndex: 351
+    localRot:
+      value:
+        x: 0.2617866
+        y: -0.10184549
+        z: 0.9585771
+        w: -0.047172155
+  - targetIndex: 26
+    triangleCount: 2
+    triangleStartIndex: 360
+    localRot:
+      value:
+        x: -3.7319236E-07
+        y: 0.022429194
+        z: -2.9155123E-07
+        w: 0.99974847
+  - targetIndex: 25
+    triangleCount: 7
+    triangleStartIndex: 366
+    localRot:
+      value:
+        x: 0.018467065
+        y: -0.115431696
+        z: 0.99313235
+        w: 0.004769954
+  - targetIndex: 26
+    triangleCount: 6
+    triangleStartIndex: 387
+    localRot:
+      value:
+        x: 0.0049767285
+        y: -0.031766612
+        z: 0.9994728
+        w: -0.004518216
+  - targetIndex: 27
+    triangleCount: 6
+    triangleStartIndex: 405
+    localRot:
+      value:
+        x: 0.005820895
+        y: 0.006634233
+        z: 0.99995714
+        w: 0.0028038505
+  - targetIndex: 28
+    triangleCount: 3
+    triangleStartIndex: 423
+    localRot:
+      value:
+        x: -0.05569056
+        y: 0.011609115
+        z: 0.99837947
+        w: -0.0014684096
+  - targetIndex: 31
+    triangleCount: 3
+    triangleStartIndex: 432
+    localRot:
+      value:
+        x: -0.012511358
+        y: -0.027837263
+        z: 0.0003485661
+        w: 0.99953413
+  - targetIndex: 30
+    triangleCount: 6
+    triangleStartIndex: 441
+    localRot:
+      value:
+        x: 0.00917342
+        y: -0.08173475
+        z: 0.9964963
+        w: 0.015181184
+  - targetIndex: 31
+    triangleCount: 6
+    triangleStartIndex: 459
+    localRot:
+      value:
+        x: 0.023368234
+        y: -0.07197184
+        z: 0.99692035
+        w: -0.02058651
+  - targetIndex: 32
+    triangleCount: 6
+    triangleStartIndex: 477
+    localRot:
+      value:
+        x: -0.34838185
+        y: -0.03963419
+        z: 0.93646395
+        w: 0.00972288
+  - targetIndex: 33
+    triangleCount: 3
+    triangleStartIndex: 495
+    localRot:
+      value:
+        x: -0.4034177
+        y: -0.08705445
+        z: 0.90912795
+        w: 0.056233104
+  - targetIndex: 36
+    triangleCount: 2
+    triangleStartIndex: 504
+    localRot:
+      value:
+        x: 7.922711E-08
+        y: -0.04525124
+        z: 2.1600958E-07
+        w: -0.9989757
+  - targetIndex: 35
+    triangleCount: 7
+    triangleStartIndex: 510
+    localRot:
+      value:
+        x: 0.015670149
+        y: 0.042878553
+        z: -0.9989555
+        w: -0.0019807485
+  - targetIndex: 36
+    triangleCount: 6
+    triangleStartIndex: 531
+    localRot:
+      value:
+        x: 0.022804778
+        y: 0.022094803
+        z: -0.9994723
+        w: -0.0068545886
+  - targetIndex: 37
+    triangleCount: 6
+    triangleStartIndex: 549
+    localRot:
+      value:
+        x: 0.7041326
+        y: 0.046789967
+        z: -0.70846283
+        w: -0.009404808
+  - targetIndex: 38
+    triangleCount: 3
+    triangleStartIndex: 567
+    localRot:
+      value:
+        x: 0.758951
+        y: 0.08697289
+        z: -0.63723737
+        w: -0.10177222
+  - targetIndex: 41
+    triangleCount: 2
+    triangleStartIndex: 576
+    localRot:
+      value:
+        x: -1.4116966E-07
+        y: -0.00036650815
+        z: -3.0860267E-07
+        w: 0.99999994
+  - targetIndex: 40
+    triangleCount: 8
+    triangleStartIndex: 582
+    localRot:
+      value:
+        x: -0.03540259
+        y: -0.05380114
+        z: 0.9975106
+        w: 0.028719869
+  - targetIndex: 41
+    triangleCount: 6
+    triangleStartIndex: 606
+    localRot:
+      value:
+        x: -0.04869318
+        y: -0.036301583
+        z: 0.99815
+        w: -0.0027936467
+  - targetIndex: 42
+    triangleCount: 6
+    triangleStartIndex: 624
+    localRot:
+      value:
+        x: 0.94912547
+        y: -1.3143243E-05
+        z: -0.31482166
+        w: 0.0069343355
+  - targetIndex: 43
+    triangleCount: 2
+    triangleStartIndex: 642
+    localRot:
+      value:
+        x: 0.9398625
+        y: 0.08039131
+        z: -0.310371
+        w: -0.117752396
+  triangleRotationIndexList: 00000000010000000600000000000000290000000100000000000000060000000500000000000000280000002900000000000000010000000600000000000000290000000100000001000000020000000600000001000000290000000200000001000000020000000600000001000000290000000200000002000000070000000600000002000000290000002a000000020000000300000007000000020000002a00000003000000020000000300000007000000020000002a00000003000000030000000800000007000000030000002a0000002b000000030000000400000008000000030000002b00000004000000030000000400000008000000030000002b00000004000000040000000900000008000000040000002b0000002c00000000000000060000000500000005000000060000000a00000000000000010000000600000000000000060000000500000001000000020000000600000002000000070000000600000005000000060000000a000000060000000b0000000a00000006000000070000000b00000002000000070000000600000002000000030000000700000003000000080000000700000006000000070000000b00000007000000080000000c000000070000000c0000000b00000003000000080000000700000003000000040000000800000004000000090000000800000007000000080000000c00000008000000090000000d000000080000000d0000000c00000004000000090000000800000008000000090000000d000000090000000e0000000d00000005000000060000000a000000060000000b0000000a0000000a0000000b000000100000000a000000100000000f000000060000000b0000000a00000006000000070000000b000000070000000c0000000b0000000a0000000b000000100000000b0000000c0000001000000007000000080000000c000000070000000c0000000b000000080000000d0000000c0000000b0000000c000000100000000c00000011000000100000000c0000000d0000001100000008000000090000000d000000080000000d0000000c000000090000000e0000000d0000000c0000000d000000110000000d00000012000000110000000d0000000e00000012000000090000000e0000000d0000000d0000000e000000120000000e00000013000000120000000a000000100000000f0000000f00000010000000150000000f00000015000000140000000a0000000b000000100000000a000000100000000f0000000b0000000c000000100000000c00000011000000100000000f00000010000000150000001000000011000000150000000c00000011000000100000000c0000000d000000110000000d00000012000000110000001000000011000000150000001100000012000000160000001100000016000000150000000d00000012000000110000000d0000000e000000120000000e00000013000000120000001100000012000000160000001200000013000000170000001200000017000000160000000e00000013000000120000001200000013000000170000001300000018000000170000000f000000150000001400000014000000150000001a000000140000001a000000190000000f00000010000000150000000f000000150000001400000010000000110000001500000011000000160000001500000014000000150000001a00000015000000160000001a00000011000000120000001600000011000000160000001500000012000000170000001600000015000000160000001a00000016000000170000001b000000160000001b0000001a00000012000000130000001700000012000000170000001600000013000000180000001700000016000000170000001b00000017000000180000001c000000170000001c0000001b00000013000000180000001700000017000000180000001c000000180000001d0000001c000000140000001a00000019000000190000001a0000001e00000014000000150000001a000000140000001a0000001900000015000000160000001a000000160000001b0000001a000000190000001a0000001e0000001a0000001f0000001e0000001a0000001b0000001f00000016000000170000001b000000160000001b0000001a000000170000001c0000001b0000001a0000001b0000001f0000001b000000200000001f0000001b0000001c0000002000000017000000180000001c000000170000001c0000001b000000180000001d0000001c0000001b0000001c000000200000001c00000021000000200000001c0000001d00000021000000180000001d0000001c0000001c0000001d000000210000001d0000002200000021000000190000001a0000001e0000001a0000001f0000001e0000001e0000001f000000240000001a0000001f0000001e0000001a0000001b0000001f0000001b000000200000001f0000001e0000001f000000240000001f00000020000000240000001f00000024000000230000001b000000200000001f0000001b0000001c000000200000001c00000021000000200000001f00000020000000240000002000000025000000240000002000000021000000250000001c00000021000000200000001c0000001d000000210000001d00000022000000210000002000000021000000250000002100000026000000250000002100000022000000260000001d00000022000000210000002100000022000000260000002200000027000000260000001f00000024000000230000002300000024000000290000001e0000001f000000240000001f00000020000000240000001f0000002400000023000000200000002500000024000000230000002400000029000000240000002500000029000000240000002900000028000000200000002500000024000000200000002100000025000000210000002600000025000000240000002500000029000000250000002a0000002900000025000000260000002a00000021000000260000002500000021000000220000002600000022000000270000002600000025000000260000002a000000260000002b0000002a00000026000000270000002b00000022000000270000002600000026000000270000002b000000270000002c0000002b00000000000000280000002900000024000000290000002800000000000000290000000100000000000000280000002900000001000000290000000200000002000000290000002a000000230000002400000029000000240000002500000029000000240000002900000028000000250000002a0000002900000002000000290000002a000000020000002a00000003000000030000002a0000002b000000250000002a0000002900000025000000260000002a000000260000002b0000002a000000030000002a0000002b000000030000002b00000004000000040000002b0000002c000000260000002b0000002a00000026000000270000002b000000270000002c0000002b000000040000002b0000002c000000270000002c0000002b000000
+  edgeCollisionDataList: []
+  edgeCollisionReferenceList: []
+  edgeCollisionWriteBufferCount: 0
+  penetrationDataList: []
+  penetrationReferenceList: []
+  penetrationDirectionDataList: []
+  penetrationMode: 0
+  baseSkinningDataList: []
+  baseSkinningBindPoseList: []
+  initScale: {x: 1, y: 0.9999999, z: 0.9999998}

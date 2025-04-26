@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1269690226674928
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4234185575522797}
+  - component: {fileID: 114573413573096826}
+  m_Layer: 0
+  m_Name: Achievements
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4234185575522797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269690226674928}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114573413573096826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269690226674928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20474dc137a5847252abe2956cbabfb, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  dataAchievements:
+  - steamAchievement: ACHI_WinFIght
+    icon: {fileID: 21300000, guid: 05957dda0c51eeb43b3a724d432d8641, type: 2}
+    lineTranslate: 0
+    get: 1
+  - steamAchievement: ACHI_ClickShadow
+    icon: {fileID: 21300000, guid: e279d9f9ca4d7af4bbf6b30bda6f7ce5, type: 2}
+    lineTranslate: 1
+    get: 0
+  - steamAchievement: ACHI_DeathJuice
+    icon: {fileID: 21300000, guid: a0c37557184a55d4d95c20bbe16f3824, type: 2}
+    lineTranslate: 2
+    get: 0
+  - steamAchievement: ACHI_PinguinTusim
+    icon: {fileID: 21300000, guid: bfa09ef84d9e2a043bd5a73134606310, type: 2}
+    lineTranslate: 3
+    get: 1
+  - steamAchievement: ACHI_safelife
+    icon: {fileID: 21300000, guid: be7e95ffcb5476a429de7e1cee6a7765, type: 2}
+    lineTranslate: 4
+    get: 0
+  - steamAchievement: ACHI_tetro
+    icon: {fileID: 21300000, guid: 46edd658964843d4eb7015e9257a8700, type: 2}
+    lineTranslate: 5
+    get: 0
+  - steamAchievement: ACHI_omta
+    icon: {fileID: 21300000, guid: 24cae82af75cd9344802379b8f577f8d, type: 2}
+    lineTranslate: 6
+    get: 0
+  - steamAchievement: ACHI_foundu
+    icon: {fileID: 21300000, guid: f049979c3dcd44147afb86c55cf8c945, type: 2}
+    lineTranslate: 7
+    get: 0
+  - steamAchievement: ACHI_mmnice
+    icon: {fileID: 21300000, guid: b51b1615c2920bf40b81f1a49a963018, type: 2}
+    lineTranslate: 8
+    get: 0
+  - steamAchievement: ACHI_none
+    icon: {fileID: 21300000, guid: fec0b9f124165924db0c89efc8151d5f, type: 2}
+    lineTranslate: 9
+    get: 0
+  - steamAchievement: ACHI_wrumwrum
+    icon: {fileID: 21300000, guid: 3e69a87fdb5da8040b38ab969cbc297f, type: 2}
+    lineTranslate: 10
+    get: 0
+  - steamAchievement: ACHI_slaphead
+    icon: {fileID: 21300000, guid: 83facdcb708c6804ba184e91d359a8df, type: 2}
+    lineTranslate: 11
+    get: 0
+  - steamAchievement: ACHI_cartridgeplayers
+    icon: {fileID: 21300000, guid: 73dd9b6e9d65e3e40abfdb6370a18583, type: 2}
+    lineTranslate: 12
+    get: 0
+  - steamAchievement: ACHI_mitastory
+    icon: {fileID: 21300000, guid: 6b434d928363de542aa6f7ffb73a7c84, type: 2}
+    lineTranslate: 13
+    get: 0
+  - steamAchievement: ACHI_final
+    icon: {fileID: 21300000, guid: d8d3cbae866014f4b8afdc000a2ea18a, type: 2}
+    lineTranslate: 14
+    get: 0
+  - steamAchievement: ACHI_racingfirst
+    icon: {fileID: 21300000, guid: 8fb3a696257f4014fa5fbbc7a6b189db, type: 2}
+    lineTranslate: 15
+    get: 0
+  - steamAchievement: ACHI_achi
+    icon: {fileID: 21300000, guid: 193d22f438b233e4cbc465b693087aa7, type: 2}
+    lineTranslate: 16
+    get: 0
+  - steamAchievement: ACHI_greatdance
+    icon: {fileID: 21300000, guid: 7f02f02781537d640bbc91d4d1651a1b, type: 2}
+    lineTranslate: 17
+    get: 0
+  - steamAchievement: ACHI_applesnake
+    icon: {fileID: 21300000, guid: 0ae19750171d4f543bb092345fef7c46, type: 2}
+    lineTranslate: 18
+    get: 0
+  - steamAchievement: ACHI_stopu
+    icon: {fileID: 21300000, guid: a416be1c053f16a4486ad47a15429970, type: 2}
+    lineTranslate: 19
+    get: 0
+  - steamAchievement: ACHI_logA
+    icon: {fileID: 21300000, guid: 99a728a62acdc8e4789caf4b0d6fdfe7, type: 2}
+    lineTranslate: 20
+    get: 0
+  - steamAchievement: ACHI_logB
+    icon: {fileID: 21300000, guid: 85362c9af188093498e6052fc3c3fb36, type: 2}
+    lineTranslate: 21
+    get: 0
+  - steamAchievement: ACHI_hellwin
+    icon: {fileID: 21300000, guid: a5d2c5726892bb142a22e7ccabea1d26, type: 2}
+    lineTranslate: 22
+    get: 0
+  - steamAchievement: ACHI_hellmegawin
+    icon: {fileID: 21300000, guid: b653ed1fa6be09244b1a5a972eb7c028, type: 2}
+    lineTranslate: 23
+    get: 0
+  - steamAchievement: ACHI_carrot
+    icon: {fileID: 21300000, guid: adbc241da8284b748a08d4b5eaf1081f, type: 2}
+    lineTranslate: 24
+    get: 0
+  - steamAchievement: ACHI_supermegapuperplayer
+    icon: {fileID: 21300000, guid: 18890126935779b449283d53f9aca79c, type: 2}
+    lineTranslate: 25
+    get: 0

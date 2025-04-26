@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FastMenu  Background Player
+  m_Controller: {fileID: 9100000, guid: 64391538fa2a412428f53d08cdca2583, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3655024a812cf204892955992ab3d304, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 633aff70ddbae4e4f98f86d98ffbd30b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c22a5caf7337b9418f0b7ccd851402d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6eeb25c526bec9b4899374265f6ae774, type: 2}

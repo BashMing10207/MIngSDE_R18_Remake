@@ -1,11 +1,8 @@
-Library\Bee\artifacts\mvdfrm\Unity.AI.Navigation.dll_B68EE67ECC56953C.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Burst.dll_A5C32B803F8BB492.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Burst.Unsafe.dll_D829874A144C2E6E.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Collections.dll_4618CF68F6610257.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Mathematics.dll_8281EC6FDA6CF298.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Postprocessing.Runtime.dll_091A4100F0784877.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Timeline.dll_4CFD5BBED563A2EB.mvfrm
-Library\Bee\artifacts\mvdfrm\UnityEngine.UI.dll_05B411FCEDCC647C.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Core.Editor.ref.dll_5F7FF7A966BF64B8.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Core.Runtime.ref.dll_7D87AD5D9C29EDF3.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Core.ShaderLibrary.ref.dll_D525208FA1B27961.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.Graphs.dll_10204910EAA6F7E2.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.CoreModule.dll_3F2FE5F522E61DB0.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.DeviceSimulatorModule.dll_6EE493BC3D9B6F11.mvfrm

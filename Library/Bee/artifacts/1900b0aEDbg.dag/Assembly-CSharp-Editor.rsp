@@ -111,17 +111,8 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"Assets/Plugins/MagicaCloth.dll"
 -r:"Assets/Plugins/NaughtyAttributes.Core.dll"
 -r:"Assets/Plugins/UIEffect.dll"
--r:"Assets/Plugins/Unity.AI.Navigation.dll"
--r:"Assets/Plugins/Unity.Burst.dll"
--r:"Assets/Plugins/Unity.Burst.Unsafe.dll"
--r:"Assets/Plugins/Unity.Collections.dll"
--r:"Assets/Plugins/Unity.Mathematics.dll"
--r:"Assets/Plugins/Unity.Postprocessing.Runtime.dll"
--r:"Assets/Plugins/Unity.Timeline.dll"
--r:"Assets/Plugins/UnityEngine.UI.dll"
 -r:"Assets/Plugins/__Generated.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.35f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.35f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -335,6 +326,20 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.35f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-firstpass.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/EPO.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/EPODemo.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/EPOEditor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/EPOHDRP.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/EPOURP.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/EPOUtilities.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/MagicaCloth2UPMImporterShaderGraph.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/MagicaClothV2UPMImporterBurst.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/MagicaClothV2UPMImporterCollections.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Editor/AssetRipperPatches/AudioMixerPostprocessor.cs"
 -langversion:9.0
 /unsafe+
